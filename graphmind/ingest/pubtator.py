@@ -9,12 +9,6 @@ def fetch_annotations(pmid):
     Download biomedical annotations for one PubMed paper.
     """
 
-    def fetch_annotations(pmid):
-        """ 
-        Download biomedical annotations for a PubMed paper.
-        Return None if annotations are unavailable. 
-        """""
-
     url = f"{BASE_URL}/publications/export/pubtator"
 
     params = {
@@ -28,7 +22,8 @@ def fetch_annotations(pmid):
     )
 
     if response.status_code == 400:
-        print(f"PubTator3 could not process PMID {pmid}")
+        print(f"PubTator3 rejected PMID: {pmid}")
+        print("Server response:", response.text[:500])
         return None
 
     response.raise_for_status()
