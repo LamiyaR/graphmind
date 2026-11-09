@@ -35,30 +35,38 @@ def load_entities(file_path):
 
             for entity in entities:
 
-                # Skip entities without a valid identifier
                 identifier = str(entity.get("identifier") or "").strip()
 
-                if not identifier or identifier == "-":
-                    print("Skipping entity without identifier")
+                entity_type = str(entity["type"]).strip()
+                entity_name = str(
+                entity.get("normalized_name") or entity["text"]
+                ).strip()
+
+                if not entity_type or not entity_name:
+                    print("Skipping invalid entity")
                     continue
 
-                # Create a unique entity ID
-                entity_id = (
-                    entity["type"] + ":" + identifier
-                )
+                if identifier and identifier != "-":
+                    entity_id = entity_type + ":" + identifier
+                else:
+                    normalized_name = " ".join(entity_name.lower().split())
+                    entity_id = entity_type + ":text:" + normalized_name
 
                 # Create Entity node
                 session.run(
-                    """
-                    MERGE (e:Entity {id: $entity_id})
-                    ON CREATE SET
-                        e.name = $name,
-                        e.type = $type
-                    """,
-                    entity_id=entity_id,
-                    name=entity["text"],
-                    type=entity["type"]
-                ).consume()
+                """
+                MERGE (e:Entity {id: $entity_id})
+                ON CREATE SET
+                    e.name = $name,
+                    e.type = $type,
+                    e.is_normalized = $is_normalized
+                """,
+                entity_id=entity_id,
+                name=entity_name,
+                type=entity_type,
+                is_normalized=bool(identifier and identifier != "-")
+            ).consume()
+    
 
                 # Connect Entity to existing Paper
                 session.run(
