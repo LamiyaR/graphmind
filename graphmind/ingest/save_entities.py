@@ -3,6 +3,11 @@ import json
 import time
 from pathlib import Path
 
+from graphmind.ingest.biomedical_ner import (
+    load_ner_model,
+    extract_with_ner
+)
+
 from graphmind.ingest.pubtator import (
     fetch_annotations,
     extract_entities
@@ -26,36 +31,67 @@ def save_entities():
 
     all_entities = []
     skipped = 0
+    ner_model = None
 
     # Process every paper
+
     for paper in papers:
 
-        #pmid = paper["pmid"]
-        
         pmid = paper["pmid"]
-        
-        print(f"Processing PMID: {pmid}")
-    
-        
-    
+        print(f"\nProcessing PMID: {pmid}")
+
+        entities = []
+
         try:
             annotation_text = fetch_annotations(pmid)
 
-            if annotation_text is None:
-                skipped += 1
-                print("Skipped: annotations unavailable")
-                continue
+            if annotation_text is not None:
+                entities = extract_entities(annotation_text)
 
-            entities = extract_entities(annotation_text)
-            all_entities.extend(entities)
+                for entity in entities:
+                    entity["source"] = "pubtator3"
 
-            print(f"Found {len(entities)} entities")
+                print(
+                    f"PubTator3 found {len(entities)} entities"
+                )
 
         except Exception as error:
+            print(f"PubTator3 error: {error}")
+
+        # Use fallback if PubTator3 found nothing
+        if not entities:
+
+            print("Using biomedical NER fallback...")
+
+            if ner_model is None:
+                ner_model = load_ner_model()
+
+            text = (
+                paper.get("title", "") + " " +
+                paper.get("abstract", "")
+            ).strip()
+
+            try:
+                entities = extract_with_ner(
+                    text=text,
+                    pmid=pmid,
+                    model=ner_model
+                )
+
+                print(
+                    f"NER found {len(entities)} entities"
+                )
+
+            except Exception as error:
+                print(f"NER error: {error}")
+
+        if not entities:
             skipped += 1
-            print(f"Error processing {pmid}: {error}")
+
+        all_entities.extend(entities)
 
         time.sleep(0.4)
+
 
     # Create output folder if needed
     OUTPUT_FILE.parent.mkdir(
