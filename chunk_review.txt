@@ -1,0 +1,228 @@
+
+============================================================
+Chunk ID: 42999994_0
+PMID: 42999994
+Title: Hormones, glycaemia and innate immunity: correlates of NK cell dysfunction in type 2 diabetes.
+Text: Type 2 diabetes mellitus (T2DM) is linked to impaired natural killer (NK) cell function and altered sex hormone homeostasis. We examined the associations of HbA1c, sex hormones and NK-cell subsets with peripheral blood mononuclear cell (PBMC) cytotoxicity. In this cross-sectional study, 58 patients with T2DM and 62 metabolically healthy controls were enrolled. PBMC cytotoxicity (specific lysis of K-562-GFP target cells, an NK cell-associated readout) was measured by flow cytometry. Serum estradiol, testosterone and HbA1c were measured, and NK-cell subsets were quantified by flow cytometry. In an exploratory sub-cohort of 16 patients undergoing bariatric surgery, omental adipose tissue (OAT)-derived immune cells
+
+============================================================
+Chunk ID: 42999994_1
+PMID: 42999994
+Title: Hormones, glycaemia and innate immunity: correlates of NK cell dysfunction in type 2 diabetes.
+Text: quantified by flow cytometry. In an exploratory sub-cohort of 16 patients undergoing bariatric surgery, omental adipose tissue (OAT)-derived immune cells were compared with paired PBMCs. There was a reduction in PBMC cytotoxicity for men with T2DM compared to control men and for women compared to men with T2DM. Multiple regression analysis showed that the cortisol level and PBMC cytotoxicity were inversely correlated (adjusted R2=0.218), while the testosterone level and percentage of CD56+CD16+ NK-cells were positively correlated (adjusted R2=0.218). The OAT-derived cells proved to be more cytotoxic than matched PBMCs (p=0.0005). These are theory generating associations. The cross-sectional design and limited
+
+============================================================
+Chunk ID: 42999994_2
+PMID: 42999994
+Title: Hormones, glycaemia and innate immunity: correlates of NK cell dysfunction in type 2 diabetes.
+Text: cells proved to be more cytotoxic than matched PBMCs (p=0.0005). These are theory generating associations. The cross-sectional design and limited number of children in the OAT sub-cohort and the lack of surgical control group in the non-diabetic population limit the ability to make causal inferences and need to be confirmed in future prospective studies.
+
+============================================================
+Chunk ID: 42999900_0
+PMID: 42999900
+Title: Atraumatic Shoulder-Hand Syndrome Presenting as Complex Regional Pain Syndrome Type 1 in an 81-Year-Old Patient With Diabetes Mellitus.
+Text: Complex regional pain syndrome type 1 (CRPS-1), formerly called reflex sympathetic dystrophy, is defined by the absence of a confirmed nerve lesion and accounts for many CRPS cases. "Shoulder-hand syndrome" describes a related but distinct clinical pattern of ipsilateral shoulder and hand involvement that can occur in either CRPS-1 or CRPS-2, the latter defined by a confirmed nerve lesion. CRPS-1 most commonly follows a noxious inciting event, such as fracture, sprain, surgery, or a period of immobilization, that does not involve direct nerve damage. Fully atraumatic presentations are uncommon and represent a diagnostic challenge, particularly in elderly patients with diabetes
+
+============================================================
+Chunk ID: 42999900_1
+PMID: 42999900
+Title: Atraumatic Shoulder-Hand Syndrome Presenting as Complex Regional Pain Syndrome Type 1 in an 81-Year-Old Patient With Diabetes Mellitus.
+Text: involve direct nerve damage. Fully atraumatic presentations are uncommon and represent a diagnostic challenge, particularly in elderly patients with diabetes mellitus, whose overlapping musculoskeletal and neuropathic comorbidities can obscure the underlying pathophysiology. We report a case of an 81-year-old man with a history of long-standing diabetes mellitus who presented to our clinic two months after the onset of his symptoms with progressive pain, swelling, stiffness, and vasomotor and trophic changes of the right shoulder and hand, in the absence of any known inciting event. Examination revealed allodynia, hyperalgesia, decreased skin temperature, erythema, edema, dryness, hair loss, and severe restriction in
+
+============================================================
+Chunk ID: 42999900_2
+PMID: 42999900
+Title: Atraumatic Shoulder-Hand Syndrome Presenting as Complex Regional Pain Syndrome Type 1 in an 81-Year-Old Patient With Diabetes Mellitus.
+Text: any known inciting event. Examination revealed allodynia, hyperalgesia, decreased skin temperature, erythema, edema, dryness, hair loss, and severe restriction in motion. Plain radiographs and MRI of the hand and shoulder were unremarkable. The inflammatory markers available at the time, including erythrocyte sedimentation rate and C-reactive protein, were normal. The last HbA1c was moderately elevated. Adhesive capsulitis and diabetic cheiroarthropathy were considered given the patient's diabetic status but were excluded on clinical and imaging grounds. The patient fulfilled the Budapest clinical criteria for CRPS-1, with symptoms and signs including the sensory, vasomotor, sudomotor/edema, and motor/trophic domains. After several weeks of physical
+
+============================================================
+Chunk ID: 42999900_3
+PMID: 42999900
+Title: Atraumatic Shoulder-Hand Syndrome Presenting as Complex Regional Pain Syndrome Type 1 in an 81-Year-Old Patient With Diabetes Mellitus.
+Text: criteria for CRPS-1, with symptoms and signs including the sensory, vasomotor, sudomotor/edema, and motor/trophic domains. After several weeks of physical therapy to no avail, he responded favorably to a high dose of gabapentin. This case underscores the importance of maintaining a high index of suspicion for atraumatic CRPS-1 in older diabetic patients. It illustrates the diagnostic workup required to differentiate it from more common diabetes-associated shoulder-hand pathology.
+
+============================================================
+Chunk ID: 42999802_0
+PMID: 42999802
+Title: Empowering people living with diabetes with footcare knowledge and skills: a mixed-methods feasibility study.
+Text: Diabetic foot ulcers (DFU) are common and serious complications of type 2 diabetes, increasing the risks of infection, amputation, and mortality. This study evaluated the participant-level feasibility and study-level feasibility of WellFeet, a multilingual diabetes footcare mobile health app (mHealth). This single-arm, pre-post mixed-methods feasibility study recruited 40 patients with type 2 diabetes and caregivers from a tertiary hospital in Singapore. Participants used the WellFeet for one month. Participant-level feasibility outcomes included usability (primary outcome), footcare knowledge, foot self-management behaviors, caregiver experience, and user engagement (secondary outcomes). Study-level feasibility outcomes included enrolment, completion, and compliance rates. Quantitative data were collected
+
+============================================================
+Chunk ID: 42999802_1
+PMID: 42999802
+Title: Empowering people living with diabetes with footcare knowledge and skills: a mixed-methods feasibility study.
+Text: caregiver experience, and user engagement (secondary outcomes). Study-level feasibility outcomes included enrolment, completion, and compliance rates. Quantitative data were collected using validated questionnaires, pre-post assessments, and app usage analytics, while qualitative data were collected through focus group discussions (FGDs) and analyzed thematically. Usability findings indicated high acceptance of the WellFeet, particularly in relation to ease of use, learnability, content organization, navigation, feedback, and overall satisfaction. Footcare knowledge improved significantly following the interventions among patients and caregivers (mean score: 10.80±1.88 at baseline vs. 12.00±1.56 at follow-up). Among patients, foot self-management behaviors also improved significantly (mean score: 41.96±7.80 at baseline vs. 47.60±6.17
+
+============================================================
+Chunk ID: 42999802_2
+PMID: 42999802
+Title: Empowering people living with diabetes with footcare knowledge and skills: a mixed-methods feasibility study.
+Text: baseline vs. 12.00±1.56 at follow-up). Among patients, foot self-management behaviors also improved significantly (mean score: 41.96±7.80 at baseline vs. 47.60±6.17 at follow-up). Qualitative findings generated four themes across two categories: usability comprising ease-of-use and challenges to repeated use, and impact including enhanced diabetes literacy and healthier lifestyle. Study-level feasibility indicators showed an enrollment rate of 67.7% (40/59), a completion rate of 70.0% (28/40), and a compliance rate of 40.0% (16/40). WellFeet was acceptable to patients with diabetes and caregivers and demonstrated preliminary improvements in footcare knowledge and self-management behaviors. The findings support the feasibility of both the intervention and study
+
+============================================================
+Chunk ID: 42999802_3
+PMID: 42999802
+Title: Empowering people living with diabetes with footcare knowledge and skills: a mixed-methods feasibility study.
+Text: demonstrated preliminary improvements in footcare knowledge and self-management behaviors. The findings support the feasibility of both the intervention and study procedures and will inform refinements to WellFeet and design of a future randomized controlled trial evaluating intervention effectiveness. The study was registered on ClinicalTrials.gov (NCT05564728).
+
+============================================================
+Chunk ID: 42999704_0
+PMID: 42999704
+Title: The Role of Health Coaches on a Clinical Research Team: Development & Implementation of a Health Coach-Informed Research Model During User Testing of a Lupus Whole Health Intervention.
+Text: The purpose of this paper is to describe the impact of a health coach-informed research model within an interdisciplinary lupus research team during intervention development and user testing. Health coaches are increasingly integrated into lifestyle medicine interventions for chronic disease management, but their role has largely been described in intervention delivery, with limited research on their integration during development. The Lupus WHEEL (Whole Health Empowerment for Endotypes of Lupus) program, is an interdisciplinary intervention designed for systemic lupus erythematosus (SLE), adapted from a shared medical appointment model originally developed for type 2 diabetes. Two National Board-Certified Health and Wellness Coaches
+
+============================================================
+Chunk ID: 42999704_1
+PMID: 42999704
+Title: The Role of Health Coaches on a Clinical Research Team: Development & Implementation of a Health Coach-Informed Research Model During User Testing of a Lupus Whole Health Intervention.
+Text: adapted from a shared medical appointment model originally developed for type 2 diabetes. Two National Board-Certified Health and Wellness Coaches (NBC-HWC) served as active interdisciplinary research team members across three phases: pre-user testing, during user testing, and post-user testing. Integration was supported by disease-specific clinical immersion, weekly interdisciplinary team meetings, and a coach-developed debrief tool for real-time observations. Throughout the study, coach integration extended beyond intervention delivery to include program refinement, scope-of-practice review, structured debriefing, and shared research team decision-making, resulting in restructured session sequencing, revised goal tracking, and content adjustment based on participant feedback. Notable insights were that earlier
+
+============================================================
+Chunk ID: 42999704_2
+PMID: 42999704
+Title: The Role of Health Coaches on a Clinical Research Team: Development & Implementation of a Health Coach-Informed Research Model During User Testing of a Lupus Whole Health Intervention.
+Text: resulting in restructured session sequencing, revised goal tracking, and content adjustment based on participant feedback. Notable insights were that earlier integration of health coaches expanded their role beyond delivery, fostered bidirectional learning, and highlighted the value of clinical immersion, offering a replicable framework for lifestyle medicine research teams. Trial Registration: Whole Health Empowerment for Endotypes of Lupus: Improving Quality of Life in SLE (WHEEL). ClinicalTrials.gov ID: NCT06720584. URL: https://clinicaltrials.gov/study/NCT06720584. Unique Protocol ID (IRB): Pro00111699.
+
+============================================================
+Chunk ID: 42999643_0
+PMID: 42999643
+Title: Impact of BMI on Ramadan fasting in individuals with type 2 diabetes mellitus: Insights from the DaR Global Surveys 2020-2022.
+Text: Fasting during the holy month of Ramadan is a central religious practice for Muslims worldwide, including individuals living with type 2 diabetes mellitus (T2DM). Managing diabetes during prolonged fasting presents significant clinical challenges, particularly balancing glycemic control and preventing complications such as hypoglycemia. The body mass index (BMI) is a widely used surrogate marker for metabolic status and may significantly influence the physiological response and tolerance to fasting in individuals with T2DM. However, data are limited regarding the relationship between BMI and fasting experiences among diabetic individuals in diverse Muslim-majority populations. This study used data from the Diabetes and Ramadan
+
+============================================================
+Chunk ID: 42999643_1
+PMID: 42999643
+Title: Impact of BMI on Ramadan fasting in individuals with type 2 diabetes mellitus: Insights from the DaR Global Surveys 2020-2022.
+Text: BMI and fasting experiences among diabetic individuals in diverse Muslim-majority populations. This study used data from the Diabetes and Ramadan (DaR) Global Survey, conducted via SurveyMonkey, to examine the associations between BMI and fasting-related outcomes among adults with T2DM in Muslim-majority countries. The findings may support more personalized risk stratification and clinical guidance for safe fasting practices in this population. Using a specifically designed SurveyMonkey questionnaire, Muslim individuals with T2DM were surveyed in several countries in different geographical regions and stratified by BMI. Basic demographic, clinical, and fasting-related data were collected and analyzed using descriptive and inferential statistics to explore
+
+============================================================
+Chunk ID: 42999643_2
+PMID: 42999643
+Title: Impact of BMI on Ramadan fasting in individuals with type 2 diabetes mellitus: Insights from the DaR Global Surveys 2020-2022.
+Text: stratified by BMI. Basic demographic, clinical, and fasting-related data were collected and analyzed using descriptive and inferential statistics to explore differences between subgroups. Among 6530 participants, 42.4% were overweight and 37.7% were obese, and obesity was more prevalent in females and the Gulf region. Individuals with obesity were younger and had a slightly longer duration of diabetes. Glycemic control (mean HbA1c ∼ 8.2-8.4%) was similar among BMI groups. Obesity was associated with higher systolic blood pressure, hypertension, hyperlipidemia, and microalbuminuria. Pharmacologic management patterns varied little, although use of GLP-1 receptor agonists was greater among individuals with obesity, and Ramadan fasting
+
+============================================================
+Chunk ID: 42999643_3
+PMID: 42999643
+Title: Impact of BMI on Ramadan fasting in individuals with type 2 diabetes mellitus: Insights from the DaR Global Surveys 2020-2022.
+Text: Pharmacologic management patterns varied little, although use of GLP-1 receptor agonists was greater among individuals with obesity, and Ramadan fasting intentions and practices remained consistent across BMI groups. Self-reported hypoglycemia and hyperglycemia rates were comparable, although overweight participants had higher rates of emergency visits (p = 0.01). Most participants received Ramadan-specific diabetes education, but self-monitoring of blood glucose adherence varied. Individuals with T2DM in all BMI categories were able to fast safely during Ramadan, with no significant differences in fasting behavior or adverse events. Despite a higher burden of cardiometabolic comorbidities among obese participants, glycemic control and complication rates during
+
+============================================================
+Chunk ID: 42999643_4
+PMID: 42999643
+Title: Impact of BMI on Ramadan fasting in individuals with type 2 diabetes mellitus: Insights from the DaR Global Surveys 2020-2022.
+Text: behavior or adverse events. Despite a higher burden of cardiometabolic comorbidities among obese participants, glycemic control and complication rates during fasting were comparable. These findings highlight the importance of structured education and individualized care for supporting safe fasting among people with diabetes, regardless of BMI.
+
+============================================================
+Chunk ID: 42999637_0
+PMID: 42999637
+Title: A Journey Map of Health Behaviour Decision-Making Among Patients with Type 2 Diabetes Mellitus Who are Repeatedly Hospitalized: A Longitudinal Qualitative Study.
+Text: Health behaviour decision-making is central to type 2 diabetes mellitus management, but remains complex and context dependent after repeated hospitalisations. Research has focused on health behaviours and associated factors, overlooking patient-centred decision-making across care stages and limiting stage-specific decision support and continuity-of-care strategies. A longitudinal qualitative study was conducted in mainland China, with data collected from October 2025 to March 2026. 16 patients with type 2 diabetes mellitus who had experienced repeated hospitalisations were included and participated in repeated semi-structured interviews across three stages: pre-admission (T1), hospitalisation (T2), and home management (T3). Interviews were conducted on the second day of
+
+============================================================
+Chunk ID: 42999637_1
+PMID: 42999637
+Title: A Journey Map of Health Behaviour Decision-Making Among Patients with Type 2 Diabetes Mellitus Who are Repeatedly Hospitalized: A Longitudinal Qualitative Study.
+Text: interviews across three stages: pre-admission (T1), hospitalisation (T2), and home management (T3). Interviews were conducted on the second day of hospitalisation, one day before discharge, and three months after discharge. The interviews explored decision-making behaviours, support needs, emotional experiences, and pain points. Longitudinal analysis involved within-participant comparison across the three care stages, followed by cross-case synthesis to identify recurrent and divergent patterns of change. The findings were then integrated into a time-based visual journey map of health behaviour decision-making. Four stage-specific trajectories were synthesised from the longitudinal interview data within four dimensions initially identified through preliminary patient observations: (1) behavioural
+
+============================================================
+Chunk ID: 42999637_2
+PMID: 42999637
+Title: A Journey Map of Health Behaviour Decision-Making Among Patients with Type 2 Diabetes Mellitus Who are Repeatedly Hospitalized: A Longitudinal Qualitative Study.
+Text: stage-specific trajectories were synthesised from the longitudinal interview data within four dimensions initially identified through preliminary patient observations: (1) behavioural transition from preference-driven care-seeking decisions to structured treatment adherence and fragile self-management; (2) evolving support needs from seeking trusted decision anchors to seeking structured empowerment and transition preparation, and finally to seeking continuous and accessible out-of-hospital support; (3) emotional evolution from self-blame after initially neglecting the illness, to fragile stability, and ultimately to acceptance and coexistence with the disease under long-term burden; and (4) phase-specifc pain points, including decision-making impeded by multiple information dilemmas before admission, insufficient motivation for sustained
+
+============================================================
+Chunk ID: 42999637_3
+PMID: 42999637
+Title: A Journey Map of Health Behaviour Decision-Making Among Patients with Type 2 Diabetes Mellitus Who are Repeatedly Hospitalized: A Longitudinal Qualitative Study.
+Text: long-term burden; and (4) phase-specifc pain points, including decision-making impeded by multiple information dilemmas before admission, insufficient motivation for sustained self-management during hospitalisation, and support discontinuity with practical burdens during home management. This study extends the application of patient journey mapping to understanding health behaviour decision-making among patients with T2DM who experience repeated hospitalisations. By identifying critical disruptions in decision-making, unmet needs, and barriers to sustained management, the journey map offers actionable insights for designing stage-specific, patient-centred decision-support and continuity-of-care interventions, with particular relevance to nurse-led clinical practice.
+
+============================================================
+Chunk ID: 42999614_0
+PMID: 42999614
+Title: Segmental distribution of hepatic steatosis on opportunistic low-dose computed tomography: a Couinaud-based analysis.
+Text: Hepatic steatosis is commonly and incidentally detected on nonenhanced computed tomography (CT) as areas of low attenuation. Hepatic steatosis is recognized as an independent predictor of cardiovascular disease and type 2 diabetes mellitus (DM), underscoring the clinical significance of its detection and characterization. Low-dose CT (LDCT) performed for lung cancer screening offers a unique opportunity for opportunistic evaluation of hepatic steatosis. The objective of this study is to measure CT attenuation across all eight Couinaud liver segments in patients with incidentally detected hepatic steatosis on lung cancer screening LDCT, and to identify clinical correlates of steatosis. This retrospective, single-center study
+
+============================================================
+Chunk ID: 42999614_1
+PMID: 42999614
+Title: Segmental distribution of hepatic steatosis on opportunistic low-dose computed tomography: a Couinaud-based analysis.
+Text: incidentally detected hepatic steatosis on lung cancer screening LDCT, and to identify clinical correlates of steatosis. This retrospective, single-center study evaluated hepatic steatosis among patients who underwent LDCT for lung cancer screening between 2019 and 2024; patients with steatosis and available 1.5 mm soft-tissue reconstructions comprised the analytic cohort for segmental analysis. Steatosis was defined as mean liver attenuation <40 Hounsfield units (HU) on unenhanced CT. Mean CT attenuation (HU) was measured in each Couinaud segment on soft-tissue 1.5 mm unenhanced reconstructions and normalized to intrathoracic tracheal air to reduce interscan variability related to scanner calibration and acquisition parameters. Segmental
+
+============================================================
+Chunk ID: 42999614_2
+PMID: 42999614
+Title: Segmental distribution of hepatic steatosis on opportunistic low-dose computed tomography: a Couinaud-based analysis.
+Text: unenhanced reconstructions and normalized to intrathoracic tracheal air to reduce interscan variability related to scanner calibration and acquisition parameters. Segmental differences were assessed by repeated-measures analysis of variance (ANOVA) with Tukey-Kramer post-hoc correction. Associations between mean liver HU and clinical variables [age, gender, coronary artery calcification (CAC) score, body mass index, DM] were evaluated using t-tests, and multivariable linear regression. Among 1,000 patients, steatosis was identified in 79 (7.9%); 68 with available 1.5 mm reconstructions (70.6% male) comprised the analytic cohort. Patients with steatosis were younger (median 61 vs. 63 years, P=0.005) and had higher BMI (mean 32.43 vs. 28.59
+
+============================================================
+Chunk ID: 42999614_3
+PMID: 42999614
+Title: Segmental distribution of hepatic steatosis on opportunistic low-dose computed tomography: a Couinaud-based analysis.
+Text: cohort. Patients with steatosis were younger (median 61 vs. 63 years, P=0.005) and had higher BMI (mean 32.43 vs. 28.59 kg/m2, P=0.01). Mean liver attenuation was -30.9±30.5 HU (range, -109.2 to +27.6 HU). Segmental attenuation ranged from -27.1±30.8 HU in segment 1 (caudate lobe) to -34.0±30.9 HU in segment 7. Repeated-measures ANOVA demonstrated significant segmental variation (P<0.001); segment 1 showed higher attenuation than segments 3, 4A, 4B, 6, 7, and 8 (all Tukey-adjusted P<0.05), indicating relative caudate sparing. Segments 7 and 8 had the lowest attenuation. Within-patient variability was modest (mean standard deviation: 4.91±1.94 HU), though a subset showed substantial
+
+============================================================
+Chunk ID: 42999614_4
+PMID: 42999614
+Title: Segmental distribution of hepatic steatosis on opportunistic low-dose computed tomography: a Couinaud-based analysis.
+Text: and 8 had the lowest attenuation. Within-patient variability was modest (mean standard deviation: 4.91±1.94 HU), though a subset showed substantial heterogeneity. In multivariable linear regression, older age (β=+0.16/year, P=0.001) and female sex (β=+1.51, P=0.03) were independently associated with higher liver attenuation, while DM was associated with lower attenuation (β=-2.44, P=0.001). In this exploratory, single-center study, the mean attenuation of segments 7 and 8 combined correlated strongly with whole-liver attenuation and may represent a practical candidate proxy for opportunistic screening. Validation in a larger study is needed before this two-segment measurement approach is adopted for routine use.
+
+============================================================
+Chunk ID: 42999564_0
+PMID: 42999564
+Title: The causal relationship between diabetes mellitus and meningioma: Insights from the genetic perspective.
+Text: Epidemiological evidence reports the inconsistent association between diabetes mellitus and meningioma risk. We conducted a Mendelian randomization (MR) analysis to evaluate the causality between diabetes-related phenotypes and meningioma. Genome-wide association study summary statistics for type 1 diabetes (T1D, N = 590,946), type 2 diabetes (T2D, N = 468,298), hemoglobin A1c (HbA1c, N = 146,806), fasting glucose (FG, N = 129,665), and 2-hour glucose post-oral challenge (2hGlu, N = 57,878) were obtained from the MRC-IEU OpenGWAS and MAGIC consortia. Meningioma data (1835 intracranial cases vs. 377,674 controls; 339 spinal cases vs. 500,009 controls) were derived from FinnGen R12. Genetic variants significantly
+
+============================================================
+Chunk ID: 42999564_1
+PMID: 42999564
+Title: The causal relationship between diabetes mellitus and meningioma: Insights from the genetic perspective.
+Text: (1835 intracranial cases vs. 377,674 controls; 339 spinal cases vs. 500,009 controls) were derived from FinnGen R12. Genetic variants significantly associated with each exposure were selected as instrumental variables. Inverse-variance weighted regression served as the primary analysis, supplemented by MR-Egger, weighted median, and maximum likelihood methods. Sensitivity analyses evaluated heterogeneity, pleiotropy, outliers, and influential variants.Multiple comparisons were corrected using the Benjamini-Hochberg false discovery rate (FDR) procedure. Genetically predicted liability to T2D was nominally associated with a lower risk of intracranial meningioma (IVW: OR = 0.07, 95% CI: 0.01-0.97, P = 0.047); however, this association did not remain significant after Benjamini-Hochberg
+
+============================================================
+Chunk ID: 42999564_2
+PMID: 42999564
+Title: The causal relationship between diabetes mellitus and meningioma: Insights from the genetic perspective.
+Text: meningioma (IVW: OR = 0.07, 95% CI: 0.01-0.97, P = 0.047); however, this association did not remain significant after Benjamini-Hochberg FDR correction (FDR-adjusted P = 0.41). No significant associations were found for T1D (P = 0.334), HbA1c (P = 0.082), FG (P = 0.919), 2hGlu (P = 0.955), or spinal meningioma (all P > 0.05). Sensitivity analyses were reported individually for each exposure-outcome pair. Reverse MR provided no evidence supporting a causal effect of intracranial meningioma on T1D, T2D, or HbA1c. This MR study provides suggestive, but not definitive, evidence for a potential inverse association between genetically predicted T2D liability
+
+============================================================
+Chunk ID: 42999564_3
+PMID: 42999564
+Title: The causal relationship between diabetes mellitus and meningioma: Insights from the genetic perspective.
+Text: HbA1c. This MR study provides suggestive, but not definitive, evidence for a potential inverse association between genetically predicted T2D liability and intracranial meningioma risk. After FDR correction, this association did not remain significant, and no significant associations were observed for T1D or other diabetes-related traits.
+
+============================================================
+Chunk ID: 42999545_0
+PMID: 42999545
+Title: Orforglipron improved physical and psychosocial functioning in adults with obesity: Results from ATTAIN phase 3 randomized trials.
+Text: In ATTAIN, phase 3, randomized, placebo-controlled trials, orforglipron treatment resulted in substantial weight reduction among people with obesity with or without type 2 diabetes. This was a prespecified secondary and post-hoc analyses of patient-reported outcomes (PRO) (ATTAIN-1 and ATTAIN-2). Health-Related Quality of Life (HRQoL) was assessed from baseline to week 72 (efficacy estimand) using Short Form-36 Version 2 Health Survey acute form (SF-36v2), Impact of Weight on Quality of Life-Lite-Clinical Trials Version (IWQOL-Lite-CT), EQ-5D-5L and associated EQ visual analog scale (EQ VAS), and Patient Global Impression of Severity (PGIS) and Patient Global Impression of Change (PGIC) for Physical Activity. Post-hoc
+
+============================================================
+Chunk ID: 42999545_1
+PMID: 42999545
+Title: Orforglipron improved physical and psychosocial functioning in adults with obesity: Results from ATTAIN phase 3 randomized trials.
+Text: (EQ VAS), and Patient Global Impression of Severity (PGIS) and Patient Global Impression of Change (PGIC) for Physical Activity. Post-hoc analysis assessed changes in outcomes among orforglipron-treated participants by body mass index (BMI) subgroups (<35 kg/m2, ≥35 to <40 kg/m2, and ≥40 kg/m2) and by baseline physical function limitations, as defined by PGIS. A mixed-model for repeated-measures (MMRM) was used, adjusting for treatment and key covariates. Across both ATTAIN trials, participants receiving orforglipron demonstrated greater improvements than those on placebo in PROs across most SF-36v2, IWQOL-Lite-CT and EQ-5D-5L domain scores from baseline through week 72. Significant improvements were observed across
+
+============================================================
+Chunk ID: 42999545_2
+PMID: 42999545
+Title: Orforglipron improved physical and psychosocial functioning in adults with obesity: Results from ATTAIN phase 3 randomized trials.
+Text: in PROs across most SF-36v2, IWQOL-Lite-CT and EQ-5D-5L domain scores from baseline through week 72. Significant improvements were observed across PROs related to physical function. In the exploratory subgroup analyses, participants in ATTAIN-1 with higher baseline BMI and those with baseline physical function limitations were more likely to have greater improvements. Across the ATTAIN-1 and ATTAIN-2 trials, orforglipron treatment was associated with substantial body weight reduction and improvements in patient-reported HRQoL, with consistent enhancements in physical functioning and heterogeneous effects on psychosocial functioning.ATTAIN-1: NCT05869903; ATTAIN-2:NCT05872620.
+
+============================================================
+Chunk ID: 42999457_0
+PMID: 42999457
+Title: Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.
+Text: Glucagon-like peptide-1 (GLP-1)-based therapies have changed the management of insulin-treated type 2 diabetes by creating opportunities not only to improve glycemic control and body weight but also to reduce insulin exposure and simplify previously intensified treatment regimens. However, clinical guidance remains considerably clearer on when to initiate or intensify insulin than on how to safely reduce established insulin therapy after effective GLP-1-based treatment is introduced. This narrative clinical review examines evidence for insulin dose reduction, regimen simplification, prandial insulin withdrawal, and complete insulin withdrawal following initiation or intensification of GLP-1-based therapy in adults with type 2 diabetes. Randomized trials and
+
+============================================================
+Chunk ID: 42999457_1
+PMID: 42999457
+Title: Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.
+Text: and complete insulin withdrawal following initiation or intensification of GLP-1-based therapy in adults with type 2 diabetes. Randomized trials and real-world studies increasingly support simplification of complex insulin regimens, with the strongest direct evidence supporting reduction or withdrawal of prandial insulin in appropriately selected patients. Complete insulin withdrawal is achievable in some individuals but remains less extensively studied. A practical approach should distinguish basal from prandial insulin and integrate overall glycemic control with fasting and postprandial glucose patterns, hypoglycemia risk, current insulin requirements, and clinical features suggesting impaired endogenous insulin reserve. Continuous glucose monitoring or structured glucose monitoring can facilitate
+
+============================================================
+Chunk ID: 42999457_2
+PMID: 42999457
+Title: Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.
+Text: current insulin requirements, and clinical features suggesting impaired endogenous insulin reserve. Continuous glucose monitoring or structured glucose monitoring can facilitate sequential adjustment as GLP-1-based therapy is titrated. Patients with marked hyperglycemia, previous ketosis or diabetic ketoacidosis, suspected autoimmune diabetes, or other evidence of clinically important insulin deficiency require greater caution. We propose an evidence-informed phenotype-based framework in which insulin components are progressively reassessed rather than routinely continued or withdrawn according to a fixed formula. The objective is not insulin independence itself, but identification of the least complex insulin regimen necessary to maintain safe, individualized glycemic control.
