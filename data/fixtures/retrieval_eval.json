@@ -6,5 +6,33 @@
       "42999994_0",
       "42999994_1"
     ]
+  },
+  {
+    "question": "What is the relationship between blood glucose control and NK-cell function?",
+    "relevant_chunk_ids": [
+      "42999994_0",
+      "42999994_1"
+    ]
+  },
+  {
+    "question": "How does BMI affect Ramadan fasting outcomes in Type 2 Diabetes?",
+    "relevant_chunk_ids": [
+      "42999643_0",
+      "42999643_1"
+    ]
+  },
+  {
+    "question": "How can GLP-1-based therapy reduce insulin requirements?",
+    "relevant_chunk_ids": [
+      "42999457_0",
+      "42999457_1"
+    ]
+  },
+  {
+    "question": "What factors are associated with NK-cell dysfunction in Type 2 Diabetes?",
+    "relevant_chunk_ids": [
+      "42999994_0",
+      "42999994_1"
+    ]
   }
 ]

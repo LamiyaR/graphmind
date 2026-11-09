@@ -1,113 +1,133 @@
 
 import json
+import csv
 from pathlib import Path
 
 from graphmind.retrieval.semantic_search import search_papers
 
 
 EVAL_FILE = Path("data/fixtures/retrieval_eval.json")
+CHUNKS_FILE = Path("data/processed/chunks.jsonl")
+OUTPUT_FILE = Path("data/processed/retrieval_metrics.csv")
+
+K = 5
 
 
 def precision_at_k(retrieved, relevant, k=5):
-    relevant_set = set(relevant)
-    top_k = retrieved[:k]
-
     hits = sum(
-        chunk_id in relevant_set
-        for chunk_id in top_k
+        chunk_id in relevant
+        for chunk_id in retrieved[:k]
     )
-
     return hits / k
 
 
 def recall_at_k(retrieved, relevant, k=5):
-    relevant_set = set(relevant)
-
-    if not relevant_set:
+    if not relevant:
         return 0.0
 
-    hits = len(
-        set(retrieved[:k]) & relevant_set
-    )
-
-    return hits / len(relevant_set)
+    hits = len(set(retrieved[:k]) & relevant)
+    return hits / len(relevant)
 
 
 def reciprocal_rank(retrieved, relevant, k=5):
-    relevant_set = set(relevant)
-
     for rank, chunk_id in enumerate(retrieved[:k], start=1):
-        if chunk_id in relevant_set:
+        if chunk_id in relevant:
             return 1.0 / rank
-
     return 0.0
 
 
 def main():
-    with EVAL_FILE.open("r", encoding="utf-8") as file:
+    with EVAL_FILE.open(encoding="utf-8") as file:
         evaluations = json.load(file)
 
-    precision_scores = []
-    recall_scores = []
-    reciprocal_ranks = []
+    with CHUNKS_FILE.open(encoding="utf-8") as file:
+        valid_ids = {
+            json.loads(line)["chunk_id"]
+            for line in file
+            if line.strip()
+        }
 
-    for evaluation in evaluations:
-        question = evaluation["question"]
-        relevant = evaluation["relevant_chunk_ids"]
+    if not evaluations:
+        raise ValueError("No evaluation questions found.")
 
-        print("\nQuestion:", question)
+    rows = []
 
-        results = search_papers(
-            question=question,
-            top_k=5
-        )
+    for index, item in enumerate(evaluations, start=1):
+        question = item["question"]
+        relevant_list = item["relevant_chunk_ids"]
 
-        retrieved = [
-            result["chunk_id"]
-            for result in results
-        ]
+        if not relevant_list:
+            raise ValueError(
+                f"Question {index} has no relevance judgments. "
+                "Review the chunks before running evaluation."
+            )
 
-        precision = precision_at_k(
-            retrieved, relevant
-        )
+        relevant = set(relevant_list)
 
-        recall = recall_at_k(
-            retrieved, relevant
-        )
+        unknown = relevant - valid_ids
+        if unknown:
+            raise ValueError(
+                f"Unknown chunk IDs for question {index}: {unknown}"
+            )
 
-        rr = reciprocal_rank(
-            retrieved, relevant
-        )
+        print(f"\nEvaluating question {index}: {question}")
 
-        precision_scores.append(precision)
-        recall_scores.append(recall)
-        reciprocal_ranks.append(rr)
+        results = search_papers(question, top_k=K)
+        retrieved = [r["chunk_id"] for r in results]
+
+        precision = precision_at_k(retrieved, relevant, K)
+        recall = recall_at_k(retrieved, relevant, K)
+        rr = reciprocal_rank(retrieved, relevant, K)
+
+        rows.append({
+            "question": question,
+            "precision_at_5": precision,
+            "recall_at_5": recall,
+            "reciprocal_rank_at_5": rr,
+            "retrieved_ids": "|".join(retrieved)
+        })
 
         print("Retrieved:", retrieved)
         print("Precision@5:", round(precision, 4))
         print("Recall@5:", round(recall, 4))
-        print("Reciprocal Rank:", round(rr, 4))
+        print("RR@5:", round(rr, 4))
 
-    count = len(evaluations)
+    count = len(rows)
 
-    if count == 0:
-        print("No evaluation questions found.")
-        return
+    mean_precision = sum(
+        r["precision_at_5"] for r in rows
+    ) / count
 
-    print("\nEvaluation Summary")
+    mean_recall = sum(
+        r["recall_at_5"] for r in rows
+    ) / count
+
+    mrr = sum(
+        r["reciprocal_rank_at_5"] for r in rows
+    ) / count
+
+    print("\n===== FINAL EVALUATION =====")
     print("Questions evaluated:", count)
-    print(
-        "Mean Precision@5:",
-        round(sum(precision_scores) / count, 4)
+    print("Mean Precision@5:", round(mean_precision, 4))
+    print("Mean Recall@5:", round(mean_recall, 4))
+    print("MRR@5:", round(mrr, 4))
+
+    OUTPUT_FILE.parent.mkdir(
+        parents=True,
+        exist_ok=True
     )
-    print(
-        "Mean Recall@5:",
-        round(sum(recall_scores) / count, 4)
-    )
-    print(
-        "MRR@5:",
-        round(sum(reciprocal_ranks) / count, 4)
-    )
+
+    with OUTPUT_FILE.open(
+        "w", newline="", encoding="utf-8"
+    ) as file:
+        writer = csv.DictWriter(
+            file,
+            fieldnames=list(rows[0].keys())
+        )
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print("Saved results to:", OUTPUT_FILE)
 
 
 if __name__ == "__main__":
