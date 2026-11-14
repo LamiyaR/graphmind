@@ -1,5 +1,9 @@
 from neo4j import GraphDatabase
 
+import truststore
+
+truststore.inject_into_ssl()
+
 from graphmind.config import (
     NEO4J_URI,
     NEO4J_USER,
