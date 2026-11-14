@@ -1,10 +1,11 @@
+from typing import TypedDict, Any
 
-from typing import TypedDict
 
-
-class AgentState(TypedDict):
+class AgentState(TypedDict, total=False):
     question: str
-    evidence: list[dict]
+    detected_entity: str | None
+    graph_paths: list[dict[str, Any]]
+    evidence: list[dict[str, Any]]
     answer: str
     evidence_sufficient: bool
     retry_count: int

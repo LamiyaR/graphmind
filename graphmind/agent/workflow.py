@@ -3,6 +3,7 @@ from langgraph.graph import StateGraph, START, END
 
 from graphmind.agent.state import AgentState
 from graphmind.agent.retrieval_node import retrieve_evidence
+from graphmind.llm.answer_generator import generate_answer
 
 
 def grade_evidence(state: AgentState):
@@ -19,13 +20,17 @@ def grade_evidence(state: AgentState):
 
 def generate_answer_node(state: AgentState):
     print("Step 3: Generating answer")
+    if not state.get("evidence_sufficient", False):
+        return {
+            "answer": "Insufficient research evidence to answer the question."
+        }
 
-    # Placeholder until we connect Srushti's LLM
+    answer = generate_answer(
+    question=state["question"],
+    evidence=state["evidence"]
+    )
     return {
-        "answer": (
-            "Retrieved evidence is available. "
-            "LLM answer generation is not connected yet."
-        )
+        "answer": answer
     }
 
 
