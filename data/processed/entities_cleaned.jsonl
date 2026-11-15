@@ -1,0 +1,543 @@
+{"pmid": "42999994", "text": "glycaemia", "type": "Sign_symptom", "identifier": null, "start": 10, "end": 19, "source": "biomedical_ner", "score": 0.909, "normalized_name": "glycaemia"}
+{"pmid": "42999994", "text": "immunity", "type": "Sign_symptom", "identifier": null, "start": 31, "end": 39, "source": "biomedical_ner", "score": 0.9952, "normalized_name": "immunity"}
+{"pmid": "42999994", "text": "nk cell dysfunction", "type": "Sign_symptom", "identifier": null, "start": 55, "end": 74, "source": "biomedical_ner", "score": 0.9868, "normalized_name": "nk cell dysfunction"}
+{"pmid": "42999994", "text": "type 2 diabetes", "type": "Disease_disorder", "identifier": null, "start": 78, "end": 93, "source": "biomedical_ner", "score": 0.7177, "normalized_name": "type 2 diabetes"}
+{"pmid": "42999994", "text": "type 2 diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 95, "end": 119, "source": "biomedical_ner", "score": 0.9897, "normalized_name": "type 2 diabetes mellitus"}
+{"pmid": "42999994", "text": "t2", "type": "Disease_disorder", "identifier": null, "start": 121, "end": 123, "source": "biomedical_ner", "score": 0.9243, "normalized_name": "t2"}
+{"pmid": "42999994", "text": "##dm", "type": "Disease_disorder", "identifier": null, "start": 123, "end": 125, "source": "biomedical_ner", "score": 0.9344, "normalized_name": "##dm"}
+{"pmid": "42999994", "text": "natural", "type": "Sign_symptom", "identifier": null, "start": 149, "end": 156, "source": "biomedical_ner", "score": 0.818, "normalized_name": "natural"}
+{"pmid": "42999994", "text": "(", "type": "Sign_symptom", "identifier": null, "start": 164, "end": 165, "source": "biomedical_ner", "score": 0.4674, "normalized_name": "("}
+{"pmid": "42999994", "text": "cell", "type": "Sign_symptom", "identifier": null, "start": 169, "end": 173, "source": "biomedical_ner", "score": 0.5829, "normalized_name": "cell"}
+{"pmid": "42999994", "text": "sex", "type": "Diagnostic_procedure", "identifier": null, "start": 195, "end": 198, "source": "biomedical_ner", "score": 0.9917, "normalized_name": "sex"}
+{"pmid": "42999994", "text": "h", "type": "Diagnostic_procedure", "identifier": null, "start": 252, "end": 253, "source": "biomedical_ner", "score": 0.9862, "normalized_name": "h"}
+{"pmid": "42999994", "text": "sex hormones", "type": "Diagnostic_procedure", "identifier": null, "start": 259, "end": 271, "source": "biomedical_ner", "score": 0.96, "normalized_name": "sex hormones"}
+{"pmid": "42999994", "text": "cell subset", "type": "Diagnostic_procedure", "identifier": null, "start": 279, "end": 290, "source": "biomedical_ner", "score": 0.7861, "normalized_name": "cell subset"}
+{"pmid": "42999994", "text": "mononu", "type": "Diagnostic_procedure", "identifier": null, "start": 314, "end": 320, "source": "biomedical_ner", "score": 0.4829, "normalized_name": "mononu"}
+{"pmid": "42999994", "text": "58", "type": "Lab_value", "identifier": null, "start": 383, "end": 385, "source": "biomedical_ner", "score": 0.9989, "normalized_name": "58"}
+{"pmid": "42999994", "text": "t2dm", "type": "Disease_disorder", "identifier": null, "start": 400, "end": 404, "source": "biomedical_ner", "score": 0.9221, "normalized_name": "t2dm"}
+{"pmid": "42999994", "text": "62", "type": "Lab_value", "identifier": null, "start": 409, "end": 411, "source": "biomedical_ner", "score": 0.759, "normalized_name": "62"}
+{"pmid": "42999994", "text": "p", "type": "Diagnostic_procedure", "identifier": null, "start": 458, "end": 459, "source": "biomedical_ner", "score": 0.9187, "normalized_name": "p"}
+{"pmid": "42999994", "text": "##bm", "type": "Diagnostic_procedure", "identifier": null, "start": 459, "end": 461, "source": "biomedical_ner", "score": 0.633, "normalized_name": "##bm"}
+{"pmid": "42999994", "text": "flow", "type": "Diagnostic_procedure", "identifier": null, "start": 566, "end": 570, "source": "biomedical_ner", "score": 0.9838, "normalized_name": "flow"}
+{"pmid": "42999994", "text": "serum", "type": "Detailed_description", "identifier": null, "start": 582, "end": 587, "source": "biomedical_ner", "score": 0.8905, "normalized_name": "serum"}
+{"pmid": "42999994", "text": "testosterone", "type": "Diagnostic_procedure", "identifier": null, "start": 599, "end": 611, "source": "biomedical_ner", "score": 0.9998, "normalized_name": "testosterone"}
+{"pmid": "42999994", "text": "hba1c", "type": "Diagnostic_procedure", "identifier": null, "start": 616, "end": 621, "source": "biomedical_ner", "score": 0.9848, "normalized_name": "hba1c"}
+{"pmid": "42999994", "text": "nk", "type": "Diagnostic_procedure", "identifier": null, "start": 641, "end": 643, "source": "biomedical_ner", "score": 0.5002, "normalized_name": "nk"}
+{"pmid": "42999994", "text": "cell", "type": "Diagnostic_procedure", "identifier": null, "start": 644, "end": 648, "source": "biomedical_ner", "score": 0.63, "normalized_name": "cell"}
+{"pmid": "42999994", "text": "flow", "type": "Diagnostic_procedure", "identifier": null, "start": 676, "end": 680, "source": "biomedical_ner", "score": 0.8867, "normalized_name": "flow"}
+{"pmid": "42999994", "text": "16", "type": "Lab_value", "identifier": null, "start": 724, "end": 726, "source": "biomedical_ner", "score": 0.9338, "normalized_name": "16"}
+{"pmid": "42999994", "text": "reduction", "type": "Lab_value", "identifier": null, "start": 861, "end": 870, "source": "biomedical_ner", "score": 0.9974, "normalized_name": "reduction"}
+{"pmid": "42999994", "text": "##bm", "type": "Disease_disorder", "identifier": null, "start": 875, "end": 877, "source": "biomedical_ner", "score": 0.929, "normalized_name": "##bm"}
+{"pmid": "42999994", "text": "men", "type": "Sex", "identifier": null, "start": 896, "end": 899, "source": "biomedical_ner", "score": 0.9615, "normalized_name": "men"}
+{"pmid": "42999994", "text": "t", "type": "Disease_disorder", "identifier": null, "start": 905, "end": 906, "source": "biomedical_ner", "score": 0.9955, "normalized_name": "t"}
+{"pmid": "42999994", "text": "##2dm", "type": "Disease_disorder", "identifier": null, "start": 906, "end": 909, "source": "biomedical_ner", "score": 0.7766, "normalized_name": "##2dm"}
+{"pmid": "42999994", "text": "men", "type": "Sex", "identifier": null, "start": 930, "end": 933, "source": "biomedical_ner", "score": 0.9704, "normalized_name": "men"}
+{"pmid": "42999994", "text": "women", "type": "Sex", "identifier": null, "start": 942, "end": 947, "source": "biomedical_ner", "score": 0.9643, "normalized_name": "women"}
+{"pmid": "42999994", "text": "men", "type": "Sex", "identifier": null, "start": 960, "end": 963, "source": "biomedical_ner", "score": 0.7004, "normalized_name": "men"}
+{"pmid": "42999994", "text": "##dm", "type": "Disease_disorder", "identifier": null, "start": 971, "end": 973, "source": "biomedical_ner", "score": 0.5524, "normalized_name": "##dm"}
+{"pmid": "42999994", "text": "multiple", "type": "Detailed_description", "identifier": null, "start": 975, "end": 983, "source": "biomedical_ner", "score": 0.6707, "normalized_name": "multiple"}
+{"pmid": "42999994", "text": "sis", "type": "Diagnostic_procedure", "identifier": null, "start": 1000, "end": 1003, "source": "biomedical_ner", "score": 0.9989, "normalized_name": "sis"}
+{"pmid": "42999994", "text": "co", "type": "Diagnostic_procedure", "identifier": null, "start": 1020, "end": 1022, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "co"}
+{"pmid": "42999994", "text": "##rtisol", "type": "Diagnostic_procedure", "identifier": null, "start": 1022, "end": 1028, "source": "biomedical_ner", "score": 0.8118, "normalized_name": "##rtisol"}
+{"pmid": "42999994", "text": "p", "type": "Diagnostic_procedure", "identifier": null, "start": 1039, "end": 1040, "source": "biomedical_ner", "score": 0.8605, "normalized_name": "p"}
+{"pmid": "42999994", "text": "##bm", "type": "Diagnostic_procedure", "identifier": null, "start": 1040, "end": 1042, "source": "biomedical_ner", "score": 0.9697, "normalized_name": "##bm"}
+{"pmid": "42999994", "text": "cy", "type": "Diagnostic_procedure", "identifier": null, "start": 1044, "end": 1046, "source": "biomedical_ner", "score": 0.9547, "normalized_name": "cy"}
+{"pmid": "42999994", "text": "##to", "type": "Diagnostic_procedure", "identifier": null, "start": 1048, "end": 1050, "source": "biomedical_ner", "score": 0.738, "normalized_name": "##to"}
+{"pmid": "42999994", "text": "inversely correlated", "type": "Lab_value", "identifier": null, "start": 1062, "end": 1082, "source": "biomedical_ner", "score": 0.9365, "normalized_name": "inversely correlated"}
+{"pmid": "42999994", "text": "testosterone", "type": "Diagnostic_procedure", "identifier": null, "start": 1114, "end": 1126, "source": "biomedical_ner", "score": 1.0, "normalized_name": "testosterone"}
+{"pmid": "42999994", "text": "cd56", "type": "Diagnostic_procedure", "identifier": null, "start": 1151, "end": 1155, "source": "biomedical_ner", "score": 0.9313, "normalized_name": "cd56"}
+{"pmid": "42999994", "text": "cd16 + nk", "type": "Diagnostic_procedure", "identifier": null, "start": 1156, "end": 1164, "source": "biomedical_ner", "score": 0.8087, "normalized_name": "cd16 + nk"}
+{"pmid": "42999994", "text": "cells", "type": "Diagnostic_procedure", "identifier": null, "start": 1165, "end": 1170, "source": "biomedical_ner", "score": 0.989, "normalized_name": "cells"}
+{"pmid": "42999994", "text": "positively correlated", "type": "Lab_value", "identifier": null, "start": 1176, "end": 1197, "source": "biomedical_ner", "score": 0.9975, "normalized_name": "positively correlated"}
+{"pmid": "42999994", "text": "o", "type": "Diagnostic_procedure", "identifier": null, "start": 1223, "end": 1224, "source": "biomedical_ner", "score": 0.8427, "normalized_name": "o"}
+{"pmid": "42999994", "text": "##at", "type": "Coreference", "identifier": null, "start": 1224, "end": 1226, "source": "biomedical_ner", "score": 0.9038, "normalized_name": "##at"}
+{"pmid": "42999994", "text": "cy", "type": "Lab_value", "identifier": null, "start": 1259, "end": 1261, "source": "biomedical_ner", "score": 0.6298, "normalized_name": "cy"}
+{"pmid": "42999994", "text": "##xic", "type": "Lab_value", "identifier": null, "start": 1265, "end": 1268, "source": "biomedical_ner", "score": 0.9683, "normalized_name": "##xic"}
+{"pmid": "42999994", "text": "p", "type": "Diagnostic_procedure", "identifier": null, "start": 1282, "end": 1283, "source": "biomedical_ner", "score": 0.9988, "normalized_name": "p"}
+{"pmid": "42999994", "text": "##bm", "type": "Diagnostic_procedure", "identifier": null, "start": 1283, "end": 1285, "source": "biomedical_ner", "score": 0.9432, "normalized_name": "##bm"}
+{"pmid": "42999994", "text": "children", "type": "Subject", "identifier": null, "start": 1391, "end": 1399, "source": "biomedical_ner", "score": 0.7432, "normalized_name": "children"}
+{"pmid": "42999994", "text": "o", "type": "Other_event", "identifier": null, "start": 1407, "end": 1408, "source": "biomedical_ner", "score": 0.4147, "normalized_name": "o"}
+{"pmid": "42999994", "text": "##at", "type": "History", "identifier": null, "start": 1408, "end": 1410, "source": "biomedical_ner", "score": 0.2447, "normalized_name": "##at"}
+{"pmid": "42999994", "text": "surgical control group", "type": "Diagnostic_procedure", "identifier": null, "start": 1438, "end": 1460, "source": "biomedical_ner", "score": 0.7035, "normalized_name": "surgical control group"}
+{"pmid": "42999994", "text": "non", "type": "Detailed_description", "identifier": null, "start": 1468, "end": 1471, "source": "biomedical_ner", "score": 0.6323, "normalized_name": "non"}
+{"pmid": "42999900", "text": "at", "type": "Disease_disorder", "identifier": null, "start": 0, "end": 2, "source": "biomedical_ner", "score": 0.5015, "normalized_name": "at"}
+{"pmid": "42999900", "text": "syndrome", "type": "Disease_disorder", "identifier": null, "start": 25, "end": 33, "source": "biomedical_ner", "score": 0.505, "normalized_name": "syndrome"}
+{"pmid": "42999900", "text": "complex", "type": "Detailed_description", "identifier": null, "start": 48, "end": 55, "source": "biomedical_ner", "score": 0.9917, "normalized_name": "complex"}
+{"pmid": "42999900", "text": "regional", "type": "Detailed_description", "identifier": null, "start": 56, "end": 64, "source": "biomedical_ner", "score": 0.9252, "normalized_name": "regional"}
+{"pmid": "42999900", "text": "pain", "type": "Sign_symptom", "identifier": null, "start": 65, "end": 69, "source": "biomedical_ner", "score": 0.9972, "normalized_name": "pain"}
+{"pmid": "42999900", "text": "type", "type": "Severity", "identifier": null, "start": 79, "end": 83, "source": "biomedical_ner", "score": 0.6743, "normalized_name": "type"}
+{"pmid": "42999900", "text": "81 - year - old", "type": "Age", "identifier": null, "start": 92, "end": 103, "source": "biomedical_ner", "score": 0.9875, "normalized_name": "81 - year - old"}
+{"pmid": "42999900", "text": "diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 117, "end": 134, "source": "biomedical_ner", "score": 0.9093, "normalized_name": "diabetes mellitus"}
+{"pmid": "42999900", "text": "pain", "type": "Sign_symptom", "identifier": null, "start": 153, "end": 157, "source": "biomedical_ner", "score": 0.958, "normalized_name": "pain"}
+{"pmid": "42999900", "text": "nerve", "type": "Biological_structure", "identifier": null, "start": 271, "end": 276, "source": "biomedical_ner", "score": 0.9851, "normalized_name": "nerve"}
+{"pmid": "42999900", "text": "cr", "type": "Disease_disorder", "identifier": null, "start": 306, "end": 308, "source": "biomedical_ner", "score": 0.6702, "normalized_name": "cr"}
+{"pmid": "42999900", "text": "shoulder", "type": "Biological_structure", "identifier": null, "start": 319, "end": 327, "source": "biomedical_ner", "score": 0.5641, "normalized_name": "shoulder"}
+{"pmid": "42999900", "text": "ip", "type": "Biological_structure", "identifier": null, "start": 396, "end": 398, "source": "biomedical_ner", "score": 0.9988, "normalized_name": "ip"}
+{"pmid": "42999900", "text": "shoulder", "type": "Biological_structure", "identifier": null, "start": 408, "end": 416, "source": "biomedical_ner", "score": 0.9949, "normalized_name": "shoulder"}
+{"pmid": "42999900", "text": "hand", "type": "Biological_structure", "identifier": null, "start": 421, "end": 425, "source": "biomedical_ner", "score": 0.9936, "normalized_name": "hand"}
+{"pmid": "42999900", "text": "involvement", "type": "Sign_symptom", "identifier": null, "start": 426, "end": 437, "source": "biomedical_ner", "score": 0.9021, "normalized_name": "involvement"}
+{"pmid": "42999900", "text": "cr", "type": "Disease_disorder", "identifier": null, "start": 463, "end": 465, "source": "biomedical_ner", "score": 0.8018, "normalized_name": "cr"}
+{"pmid": "42999900", "text": "##ps", "type": "Coreference", "identifier": null, "start": 465, "end": 467, "source": "biomedical_ner", "score": 0.6446, "normalized_name": "##ps"}
+{"pmid": "42999900", "text": "cr", "type": "Disease_disorder", "identifier": null, "start": 473, "end": 475, "source": "biomedical_ner", "score": 0.7017, "normalized_name": "cr"}
+{"pmid": "42999900", "text": "##ps", "type": "Coreference", "identifier": null, "start": 475, "end": 477, "source": "biomedical_ner", "score": 0.765, "normalized_name": "##ps"}
+{"pmid": "42999900", "text": "nerve", "type": "Biological_structure", "identifier": null, "start": 515, "end": 520, "source": "biomedical_ner", "score": 0.6384, "normalized_name": "nerve"}
+{"pmid": "42999900", "text": "cr", "type": "Disease_disorder", "identifier": null, "start": 529, "end": 531, "source": "biomedical_ner", "score": 0.9986, "normalized_name": "cr"}
+{"pmid": "42999900", "text": "##ps", "type": "Disease_disorder", "identifier": null, "start": 531, "end": 533, "source": "biomedical_ner", "score": 0.6121, "normalized_name": "##ps"}
+{"pmid": "42999900", "text": "fully", "type": "Detailed_description", "identifier": null, "start": 693, "end": 698, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "fully"}
+{"pmid": "42999900", "text": "at", "type": "Disease_disorder", "identifier": null, "start": 699, "end": 701, "source": "biomedical_ner", "score": 0.9434, "normalized_name": "at"}
+{"pmid": "42999900", "text": "elderly", "type": "Subject", "identifier": null, "start": 791, "end": 798, "source": "biomedical_ner", "score": 0.4547, "normalized_name": "elderly"}
+{"pmid": "42999900", "text": "diabetes mel", "type": "Disease_disorder", "identifier": null, "start": 813, "end": 825, "source": "biomedical_ner", "score": 0.7356, "normalized_name": "diabetes mel"}
+{"pmid": "42999900", "text": "##uropathic", "type": "History", "identifier": null, "start": 872, "end": 881, "source": "biomedical_ner", "score": 0.5623, "normalized_name": "##uropathic"}
+{"pmid": "42999900", "text": "comorbidi", "type": "Sign_symptom", "identifier": null, "start": 882, "end": 891, "source": "biomedical_ner", "score": 0.5768, "normalized_name": "comorbidi"}
+{"pmid": "42999900", "text": "##ties", "type": "History", "identifier": null, "start": 891, "end": 895, "source": "biomedical_ner", "score": 0.3176, "normalized_name": "##ties"}
+{"pmid": "42999900", "text": "81 - year - old", "type": "Age", "identifier": null, "start": 963, "end": 974, "source": "biomedical_ner", "score": 0.9873, "normalized_name": "81 - year - old"}
+{"pmid": "42999900", "text": "man", "type": "Sex", "identifier": null, "start": 975, "end": 978, "source": "biomedical_ner", "score": 0.989, "normalized_name": "man"}
+{"pmid": "42999900", "text": "lo", "type": "Disease_disorder", "identifier": null, "start": 997, "end": 999, "source": "biomedical_ner", "score": 0.8035, "normalized_name": "lo"}
+{"pmid": "42999900", "text": "##n", "type": "History", "identifier": null, "start": 999, "end": 1000, "source": "biomedical_ner", "score": 0.947, "normalized_name": "##n"}
+{"pmid": "42999900", "text": "g", "type": "Severity", "identifier": null, "start": 1000, "end": 1001, "source": "biomedical_ner", "score": 0.7549, "normalized_name": "g"}
+{"pmid": "42999900", "text": "standing", "type": "History", "identifier": null, "start": 1002, "end": 1010, "source": "biomedical_ner", "score": 0.3951, "normalized_name": "standing"}
+{"pmid": "42999900", "text": "diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 1011, "end": 1028, "source": "biomedical_ner", "score": 0.9975, "normalized_name": "diabetes mellitus"}
+{"pmid": "42999900", "text": "presented", "type": "Clinical_event", "identifier": null, "start": 1033, "end": 1042, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "presented"}
+{"pmid": "42999900", "text": "clinic", "type": "Nonbiological_location", "identifier": null, "start": 1050, "end": 1056, "source": "biomedical_ner", "score": 0.9948, "normalized_name": "clinic"}
+{"pmid": "42999900", "text": "two months after", "type": "Date", "identifier": null, "start": 1057, "end": 1073, "source": "biomedical_ner", "score": 0.9834, "normalized_name": "two months after"}
+{"pmid": "42999900", "text": "pain", "type": "Sign_symptom", "identifier": null, "start": 1117, "end": 1121, "source": "biomedical_ner", "score": 0.9105, "normalized_name": "pain"}
+{"pmid": "42999900", "text": "stiff", "type": "Sign_symptom", "identifier": null, "start": 1133, "end": 1138, "source": "biomedical_ner", "score": 0.9982, "normalized_name": "stiff"}
+{"pmid": "42999900", "text": "va", "type": "Sign_symptom", "identifier": null, "start": 1148, "end": 1150, "source": "biomedical_ner", "score": 0.9619, "normalized_name": "va"}
+{"pmid": "42999900", "text": "##som", "type": "Sign_symptom", "identifier": null, "start": 1150, "end": 1153, "source": "biomedical_ner", "score": 0.6871, "normalized_name": "##som"}
+{"pmid": "42999900", "text": "##r", "type": "Sign_symptom", "identifier": null, "start": 1156, "end": 1157, "source": "biomedical_ner", "score": 0.87, "normalized_name": "##r"}
+{"pmid": "42999900", "text": "trophic changes", "type": "Sign_symptom", "identifier": null, "start": 1162, "end": 1177, "source": "biomedical_ner", "score": 0.9133, "normalized_name": "trophic changes"}
+{"pmid": "42999900", "text": "right", "type": "Biological_structure", "identifier": null, "start": 1185, "end": 1190, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "right"}
+{"pmid": "42999900", "text": "shoulder", "type": "Biological_structure", "identifier": null, "start": 1191, "end": 1199, "source": "biomedical_ner", "score": 0.9985, "normalized_name": "shoulder"}
+{"pmid": "42999900", "text": "restriction", "type": "Sign_symptom", "identifier": null, "start": 1376, "end": 1387, "source": "biomedical_ner", "score": 0.9985, "normalized_name": "restriction"}
+{"pmid": "42999900", "text": "radiographs", "type": "Diagnostic_procedure", "identifier": null, "start": 1405, "end": 1416, "source": "biomedical_ner", "score": 0.8861, "normalized_name": "radiographs"}
+{"pmid": "42999900", "text": "mri", "type": "Diagnostic_procedure", "identifier": null, "start": 1421, "end": 1424, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "mri"}
+{"pmid": "42999900", "text": "hand", "type": "Biological_structure", "identifier": null, "start": 1432, "end": 1436, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "hand"}
+{"pmid": "42999900", "text": "shoulder", "type": "Biological_structure", "identifier": null, "start": 1441, "end": 1449, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "shoulder"}
+{"pmid": "42999900", "text": "inflammatory markers", "type": "Diagnostic_procedure", "identifier": null, "start": 1473, "end": 1493, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "inflammatory markers"}
+{"pmid": "42999900", "text": "er", "type": "Diagnostic_procedure", "identifier": null, "start": 1527, "end": 1529, "source": "biomedical_ner", "score": 0.9876, "normalized_name": "er"}
+{"pmid": "42999900", "text": "##yt", "type": "Diagnostic_procedure", "identifier": null, "start": 1529, "end": 1531, "source": "biomedical_ner", "score": 0.5118, "normalized_name": "##yt"}
+{"pmid": "42999900", "text": "##ocyte", "type": "Diagnostic_procedure", "identifier": null, "start": 1533, "end": 1538, "source": "biomedical_ner", "score": 0.9142, "normalized_name": "##ocyte"}
+{"pmid": "42999900", "text": "rate", "type": "Diagnostic_procedure", "identifier": null, "start": 1553, "end": 1557, "source": "biomedical_ner", "score": 0.9423, "normalized_name": "rate"}
+{"pmid": "42999900", "text": "hba1", "type": "Diagnostic_procedure", "identifier": null, "start": 1604, "end": 1608, "source": "biomedical_ner", "score": 0.9825, "normalized_name": "hba1"}
+{"pmid": "42999900", "text": "ad", "type": "Detailed_description", "identifier": null, "start": 1635, "end": 1637, "source": "biomedical_ner", "score": 0.7887, "normalized_name": "ad"}
+{"pmid": "42999900", "text": "##hesive", "type": "Disease_disorder", "identifier": null, "start": 1637, "end": 1643, "source": "biomedical_ner", "score": 0.9972, "normalized_name": "##hesive"}
+{"pmid": "42999900", "text": "capsulitis", "type": "Disease_disorder", "identifier": null, "start": 1644, "end": 1654, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "capsulitis"}
+{"pmid": "42999900", "text": "dia", "type": "Disease_disorder", "identifier": null, "start": 1659, "end": 1662, "source": "biomedical_ner", "score": 0.9941, "normalized_name": "dia"}
+{"pmid": "42999900", "text": "##betic cheiroarthropathy", "type": "Disease_disorder", "identifier": null, "start": 1662, "end": 1685, "source": "biomedical_ner", "score": 0.9272, "normalized_name": "##betic cheiroarthropathy"}
+{"pmid": "42999900", "text": "##ic", "type": "Disease_disorder", "identifier": null, "start": 1728, "end": 1730, "source": "biomedical_ner", "score": 0.645, "normalized_name": "##ic"}
+{"pmid": "42999900", "text": "symptoms", "type": "Sign_symptom", "identifier": null, "start": 1859, "end": 1867, "source": "biomedical_ner", "score": 0.9948, "normalized_name": "symptoms"}
+{"pmid": "42999900", "text": "several weeks", "type": "Duration", "identifier": null, "start": 1962, "end": 1975, "source": "biomedical_ner", "score": 0.9983, "normalized_name": "several weeks"}
+{"pmid": "42999900", "text": "physical therapy", "type": "Therapeutic_procedure", "identifier": null, "start": 1979, "end": 1995, "source": "biomedical_ner", "score": 0.9619, "normalized_name": "physical therapy"}
+{"pmid": "42999900", "text": "high dose", "type": "Dosage", "identifier": null, "start": 2037, "end": 2046, "source": "biomedical_ner", "score": 0.9866, "normalized_name": "high dose"}
+{"pmid": "42999900", "text": "gabapen", "type": "Medication", "identifier": null, "start": 2050, "end": 2057, "source": "biomedical_ner", "score": 0.8895, "normalized_name": "gabapen"}
+{"pmid": "42999900", "text": "crps - 1", "type": "Diagnostic_procedure", "identifier": null, "start": 2155, "end": 2161, "source": "biomedical_ner", "score": 0.8516, "normalized_name": "crps - 1"}
+{"pmid": "42999900", "text": "shoulder", "type": "Biological_structure", "identifier": null, "start": 2293, "end": 2301, "source": "biomedical_ner", "score": 0.6309, "normalized_name": "shoulder"}
+{"pmid": "42999802", "text": "diabetes", "type": "Disease_disorder", "identifier": null, "start": 30, "end": 38, "source": "biomedical_ner", "score": 0.9634, "normalized_name": "diabetes"}
+{"pmid": "42999802", "text": "dia", "type": "Detailed_description", "identifier": null, "start": 110, "end": 113, "source": "biomedical_ner", "score": 0.8753, "normalized_name": "dia"}
+{"pmid": "42999802", "text": "foot ulcers", "type": "Disease_disorder", "identifier": null, "start": 119, "end": 130, "source": "biomedical_ner", "score": 0.9599, "normalized_name": "foot ulcers"}
+{"pmid": "42999802", "text": "dfu", "type": "Disease_disorder", "identifier": null, "start": 132, "end": 135, "source": "biomedical_ner", "score": 0.9469, "normalized_name": "dfu"}
+{"pmid": "42999802", "text": "40", "type": "Lab_value", "identifier": null, "start": 482, "end": 484, "source": "biomedical_ner", "score": 0.6315, "normalized_name": "40"}
+{"pmid": "42999802", "text": "type 2 diabetes", "type": "Disease_disorder", "identifier": null, "start": 499, "end": 514, "source": "biomedical_ner", "score": 0.7891, "normalized_name": "type 2 diabetes"}
+{"pmid": "42999802", "text": "caregivers", "type": "Subject", "identifier": null, "start": 519, "end": 529, "source": "biomedical_ner", "score": 0.7055, "normalized_name": "caregivers"}
+{"pmid": "42999802", "text": "foot", "type": "Diagnostic_procedure", "identifier": null, "start": 1298, "end": 1302, "source": "biomedical_ner", "score": 0.8185, "normalized_name": "foot"}
+{"pmid": "42999802", "text": "patients", "type": "Subject", "identifier": null, "start": 1374, "end": 1382, "source": "biomedical_ner", "score": 0.7649, "normalized_name": "patients"}
+{"pmid": "42999802", "text": "caregivers", "type": "Subject", "identifier": null, "start": 1387, "end": 1397, "source": "biomedical_ner", "score": 0.8711, "normalized_name": "caregivers"}
+{"pmid": "42999802", "text": "##±", "type": "Lab_value", "identifier": null, "start": 1416, "end": 1417, "source": "biomedical_ner", "score": 0.9875, "normalized_name": "##±"}
+{"pmid": "42999802", "text": ". 88", "type": "Lab_value", "identifier": null, "start": 1418, "end": 1421, "source": "biomedical_ner", "score": 0.9254, "normalized_name": ". 88"}
+{"pmid": "42999802", "text": "management", "type": "Sign_symptom", "identifier": null, "start": 1490, "end": 1500, "source": "biomedical_ner", "score": 0.4506, "normalized_name": "management"}
+{"pmid": "42999802", "text": "improved", "type": "Lab_value", "identifier": null, "start": 1516, "end": 1524, "source": "biomedical_ner", "score": 0.9636, "normalized_name": "improved"}
+{"pmid": "42999802", "text": ".", "type": "Lab_value", "identifier": null, "start": 1559, "end": 1560, "source": "biomedical_ner", "score": 0.6722, "normalized_name": "."}
+{"pmid": "42999802", "text": "usa", "type": "Diagnostic_procedure", "identifier": null, "start": 1671, "end": 1674, "source": "biomedical_ner", "score": 0.9044, "normalized_name": "usa"}
+{"pmid": "42999802", "text": "enrollment", "type": "Diagnostic_procedure", "identifier": null, "start": 1854, "end": 1864, "source": "biomedical_ner", "score": 0.8611, "normalized_name": "enrollment"}
+{"pmid": "42999802", "text": "67", "type": "Lab_value", "identifier": null, "start": 1873, "end": 1875, "source": "biomedical_ner", "score": 0.9595, "normalized_name": "67"}
+{"pmid": "42999802", "text": "7 %", "type": "Lab_value", "identifier": null, "start": 1876, "end": 1878, "source": "biomedical_ner", "score": 0.9757, "normalized_name": "7 %"}
+{"pmid": "42999802", "text": "completion", "type": "Diagnostic_procedure", "identifier": null, "start": 1890, "end": 1900, "source": "biomedical_ner", "score": 0.9674, "normalized_name": "completion"}
+{"pmid": "42999802", "text": "70. 0 %", "type": "Lab_value", "identifier": null, "start": 1909, "end": 1914, "source": "biomedical_ner", "score": 0.99, "normalized_name": "70. 0 %"}
+{"pmid": "42999802", "text": "compliance", "type": "Diagnostic_procedure", "identifier": null, "start": 1930, "end": 1940, "source": "biomedical_ner", "score": 0.5417, "normalized_name": "compliance"}
+{"pmid": "42999802", "text": ". 0 %", "type": "Lab_value", "identifier": null, "start": 1951, "end": 1954, "source": "biomedical_ner", "score": 0.8862, "normalized_name": ". 0 %"}
+{"pmid": "42999802", "text": "well", "type": "Diagnostic_procedure", "identifier": null, "start": 1964, "end": 1968, "source": "biomedical_ner", "score": 0.9985, "normalized_name": "well"}
+{"pmid": "42999802", "text": "diabetes", "type": "History", "identifier": null, "start": 2005, "end": 2013, "source": "biomedical_ner", "score": 0.7888, "normalized_name": "diabetes"}
+{"pmid": "42999802", "text": "caregi", "type": "Subject", "identifier": null, "start": 2018, "end": 2024, "source": "biomedical_ner", "score": 0.4129, "normalized_name": "caregi"}
+{"pmid": "42999802", "text": "##vers", "type": "History", "identifier": null, "start": 2024, "end": 2028, "source": "biomedical_ner", "score": 0.2932, "normalized_name": "##vers"}
+{"pmid": "42999802", "text": "footcare", "type": "Diagnostic_procedure", "identifier": null, "start": 2074, "end": 2082, "source": "biomedical_ner", "score": 0.702, "normalized_name": "footcare"}
+{"pmid": "42999802", "text": "random", "type": "Diagnostic_procedure", "identifier": null, "start": 2270, "end": 2276, "source": "biomedical_ner", "score": 0.7765, "normalized_name": "random"}
+{"pmid": "42999704", "text": "health", "type": "Family_history", "identifier": null, "start": 12, "end": 18, "source": "biomedical_ner", "score": 0.3501, "normalized_name": "health"}
+{"pmid": "42999704", "text": "##pus", "type": "Coreference", "identifier": null, "start": 154, "end": 157, "source": "biomedical_ner", "score": 0.3615, "normalized_name": "##pus"}
+{"pmid": "42999704", "text": "health", "type": "Family_history", "identifier": null, "start": 377, "end": 383, "source": "biomedical_ner", "score": 0.4047, "normalized_name": "health"}
+{"pmid": "42999704", "text": "lupus", "type": "Disease_disorder", "identifier": null, "start": 625, "end": 630, "source": "biomedical_ner", "score": 0.9605, "normalized_name": "lupus"}
+{"pmid": "42999704", "text": "wheel", "type": "Coreference", "identifier": null, "start": 631, "end": 636, "source": "biomedical_ner", "score": 0.4259, "normalized_name": "wheel"}
+{"pmid": "42999704", "text": "lupus", "type": "Disease_disorder", "identifier": null, "start": 755, "end": 760, "source": "biomedical_ner", "score": 0.9314, "normalized_name": "lupus"}
+{"pmid": "42999704", "text": "##ythe", "type": "Disease_disorder", "identifier": null, "start": 763, "end": 767, "source": "biomedical_ner", "score": 0.5772, "normalized_name": "##ythe"}
+{"pmid": "42999704", "text": "##os", "type": "Disease_disorder", "identifier": null, "start": 770, "end": 772, "source": "biomedical_ner", "score": 0.5904, "normalized_name": "##os"}
+{"pmid": "42999704", "text": "appointment", "type": "Detailed_description", "identifier": null, "start": 812, "end": 823, "source": "biomedical_ner", "score": 0.862, "normalized_name": "appointment"}
+{"pmid": "42999704", "text": "acro", "type": "Detailed_description", "identifier": null, "start": 996, "end": 1000, "source": "biomedical_ner", "score": 0.8734, "normalized_name": "acro"}
+{"pmid": "42999704", "text": "health", "type": "Family_history", "identifier": null, "start": 1621, "end": 1627, "source": "biomedical_ner", "score": 0.2221, "normalized_name": "health"}
+{"pmid": "42999704", "text": "coaches", "type": "Coreference", "identifier": null, "start": 1628, "end": 1635, "source": "biomedical_ner", "score": 0.5764, "normalized_name": "coaches"}
+{"pmid": "42999704", "text": "lupus", "type": "Disease_disorder", "identifier": null, "start": 1888, "end": 1893, "source": "biomedical_ner", "score": 0.8871, "normalized_name": "lupus"}
+{"pmid": "42999643", "text": "bmi", "type": "Disease_disorder", "identifier": null, "start": 10, "end": 13, "source": "biomedical_ner", "score": 0.9116, "normalized_name": "bmi"}
+{"pmid": "42999643", "text": "fast", "type": "Activity", "identifier": null, "start": 25, "end": 29, "source": "biomedical_ner", "score": 0.3891, "normalized_name": "fast"}
+{"pmid": "42999643", "text": "type 2 diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 53, "end": 77, "source": "biomedical_ner", "score": 0.8979, "normalized_name": "type 2 diabetes mellitus"}
+{"pmid": "42999643", "text": "fasting", "type": "Activity", "identifier": null, "start": 127, "end": 134, "source": "biomedical_ner", "score": 0.6453, "normalized_name": "fasting"}
+{"pmid": "42999643", "text": "type 2 diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 257, "end": 281, "source": "biomedical_ner", "score": 0.9383, "normalized_name": "type 2 diabetes mellitus"}
+{"pmid": "42999643", "text": "diabetes", "type": "Disease_disorder", "identifier": null, "start": 299, "end": 307, "source": "biomedical_ner", "score": 0.9974, "normalized_name": "diabetes"}
+{"pmid": "42999643", "text": "prolonged", "type": "Detailed_description", "identifier": null, "start": 315, "end": 324, "source": "biomedical_ner", "score": 0.9997, "normalized_name": "prolonged"}
+{"pmid": "42999643", "text": "fast", "type": "Therapeutic_procedure", "identifier": null, "start": 325, "end": 329, "source": "biomedical_ner", "score": 0.7099, "normalized_name": "fast"}
+{"pmid": "42999643", "text": "##ly", "type": "Disease_disorder", "identifier": null, "start": 457, "end": 459, "source": "biomedical_ner", "score": 0.523, "normalized_name": "##ly"}
+{"pmid": "42999643", "text": "mass index", "type": "Diagnostic_procedure", "identifier": null, "start": 475, "end": 485, "source": "biomedical_ner", "score": 0.7689, "normalized_name": "mass index"}
+{"pmid": "42999643", "text": "b", "type": "Disease_disorder", "identifier": null, "start": 487, "end": 488, "source": "biomedical_ner", "score": 0.6145, "normalized_name": "b"}
+{"pmid": "42999643", "text": "fast", "type": "Therapeutic_procedure", "identifier": null, "start": 623, "end": 627, "source": "biomedical_ner", "score": 0.5372, "normalized_name": "fast"}
+{"pmid": "42999643", "text": "t", "type": "Disease_disorder", "identifier": null, "start": 651, "end": 652, "source": "biomedical_ner", "score": 0.9677, "normalized_name": "t"}
+{"pmid": "42999643", "text": "bmi", "type": "Disease_disorder", "identifier": null, "start": 718, "end": 721, "source": "biomedical_ner", "score": 0.8748, "normalized_name": "bmi"}
+{"pmid": "42999643", "text": "dia", "type": "Family_history", "identifier": null, "start": 752, "end": 755, "source": "biomedical_ner", "score": 0.3453, "normalized_name": "dia"}
+{"pmid": "42999643", "text": "##betic", "type": "Disease_disorder", "identifier": null, "start": 755, "end": 760, "source": "biomedical_ner", "score": 0.669, "normalized_name": "##betic"}
+{"pmid": "42999643", "text": "muslim", "type": "Personal_background", "identifier": null, "start": 784, "end": 790, "source": "biomedical_ner", "score": 0.8892, "normalized_name": "muslim"}
+{"pmid": "42999643", "text": "bmi", "type": "Disease_disorder", "identifier": null, "start": 949, "end": 952, "source": "biomedical_ner", "score": 0.7537, "normalized_name": "bmi"}
+{"pmid": "42999643", "text": "t2", "type": "Diagnostic_procedure", "identifier": null, "start": 1000, "end": 1002, "source": "biomedical_ner", "score": 0.5906, "normalized_name": "t2"}
+{"pmid": "42999643", "text": "##dm", "type": "Disease_disorder", "identifier": null, "start": 1002, "end": 1004, "source": "biomedical_ner", "score": 0.7525, "normalized_name": "##dm"}
+{"pmid": "42999643", "text": "muslim", "type": "Personal_background", "identifier": null, "start": 1008, "end": 1014, "source": "biomedical_ner", "score": 0.9909, "normalized_name": "muslim"}
+{"pmid": "42999643", "text": "majority", "type": "Personal_background", "identifier": null, "start": 1015, "end": 1023, "source": "biomedical_ner", "score": 0.4095, "normalized_name": "majority"}
+{"pmid": "42999643", "text": "muslim", "type": "Personal_background", "identifier": null, "start": 1225, "end": 1231, "source": "biomedical_ner", "score": 0.984, "normalized_name": "muslim"}
+{"pmid": "42999643", "text": "t", "type": "Disease_disorder", "identifier": null, "start": 1249, "end": 1250, "source": "biomedical_ner", "score": 0.4572, "normalized_name": "t"}
+{"pmid": "42999643", "text": "##2dm", "type": "Disease_disorder", "identifier": null, "start": 1250, "end": 1253, "source": "biomedical_ner", "score": 0.7103, "normalized_name": "##2dm"}
+{"pmid": "42999643", "text": "infer", "type": "Detailed_description", "identifier": null, "start": 1450, "end": 1455, "source": "biomedical_ner", "score": 0.8811, "normalized_name": "infer"}
+{"pmid": "42999643", "text": ". 4 %", "type": "Lab_value", "identifier": null, "start": 1542, "end": 1545, "source": "biomedical_ner", "score": 0.9683, "normalized_name": ". 4 %"}
+{"pmid": "42999643", "text": "overweight", "type": "Sign_symptom", "identifier": null, "start": 1551, "end": 1561, "source": "biomedical_ner", "score": 0.9823, "normalized_name": "overweight"}
+{"pmid": "42999643", "text": "%", "type": "Lab_value", "identifier": null, "start": 1570, "end": 1571, "source": "biomedical_ner", "score": 0.8561, "normalized_name": "%"}
+{"pmid": "42999643", "text": "obe", "type": "Sign_symptom", "identifier": null, "start": 1577, "end": 1580, "source": "biomedical_ner", "score": 0.9666, "normalized_name": "obe"}
+{"pmid": "42999643", "text": "obesity", "type": "Disease_disorder", "identifier": null, "start": 1588, "end": 1595, "source": "biomedical_ner", "score": 0.9704, "normalized_name": "obesity"}
+{"pmid": "42999643", "text": "obesity", "type": "Disease_disorder", "identifier": null, "start": 1664, "end": 1671, "source": "biomedical_ner", "score": 0.9763, "normalized_name": "obesity"}
+{"pmid": "42999643", "text": "younger", "type": "Age", "identifier": null, "start": 1677, "end": 1684, "source": "biomedical_ner", "score": 0.7706, "normalized_name": "younger"}
+{"pmid": "42999643", "text": "g", "type": "Diagnostic_procedure", "identifier": null, "start": 1733, "end": 1734, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "g"}
+{"pmid": "42999643", "text": "##mic control", "type": "Diagnostic_procedure", "identifier": null, "start": 1738, "end": 1749, "source": "biomedical_ner", "score": 0.9936, "normalized_name": "##mic control"}
+{"pmid": "42999643", "text": "h", "type": "Diagnostic_procedure", "identifier": null, "start": 1756, "end": 1757, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "h"}
+{"pmid": "42999643", "text": "##ba1", "type": "Diagnostic_procedure", "identifier": null, "start": 1757, "end": 1760, "source": "biomedical_ner", "score": 0.8224, "normalized_name": "##ba1"}
+{"pmid": "42999643", "text": "obesity", "type": "Disease_disorder", "identifier": null, "start": 1804, "end": 1811, "source": "biomedical_ner", "score": 0.939, "normalized_name": "obesity"}
+{"pmid": "42999643", "text": "higher", "type": "Lab_value", "identifier": null, "start": 1832, "end": 1838, "source": "biomedical_ner", "score": 0.8862, "normalized_name": "higher"}
+{"pmid": "42999643", "text": "##bu", "type": "Sign_symptom", "identifier": null, "start": 1905, "end": 1907, "source": "biomedical_ner", "score": 0.7806, "normalized_name": "##bu"}
+{"pmid": "42999643", "text": "##logic management", "type": "Diagnostic_procedure", "identifier": null, "start": 1924, "end": 1940, "source": "biomedical_ner", "score": 0.7447, "normalized_name": "##logic management"}
+{"pmid": "42999643", "text": "g", "type": "Medication", "identifier": null, "start": 1981, "end": 1982, "source": "biomedical_ner", "score": 0.6929, "normalized_name": "g"}
+{"pmid": "42999643", "text": "##lp", "type": "Diagnostic_procedure", "identifier": null, "start": 1982, "end": 1984, "source": "biomedical_ner", "score": 0.6567, "normalized_name": "##lp"}
+{"pmid": "42999643", "text": "- 1 receptor ago", "type": "Medication", "identifier": null, "start": 1984, "end": 1999, "source": "biomedical_ner", "score": 0.8033, "normalized_name": "- 1 receptor ago"}
+{"pmid": "42999643", "text": "##n", "type": "Diagnostic_procedure", "identifier": null, "start": 1999, "end": 2000, "source": "biomedical_ner", "score": 0.6916, "normalized_name": "##n"}
+{"pmid": "42999643", "text": "ist", "type": "Disease_disorder", "identifier": null, "start": 2000, "end": 2003, "source": "biomedical_ner", "score": 0.9376, "normalized_name": "ist"}
+{"pmid": "42999643", "text": "b", "type": "Disease_disorder", "identifier": null, "start": 2121, "end": 2122, "source": "biomedical_ner", "score": 0.4437, "normalized_name": "b"}
+{"pmid": "42999643", "text": "h", "type": "Sign_symptom", "identifier": null, "start": 2147, "end": 2148, "source": "biomedical_ner", "score": 0.9997, "normalized_name": "h"}
+{"pmid": "42999643", "text": "##ypoglycemia", "type": "Sign_symptom", "identifier": null, "start": 2148, "end": 2159, "source": "biomedical_ner", "score": 0.9989, "normalized_name": "##ypoglycemia"}
+{"pmid": "42999643", "text": "hyperglycemia", "type": "Sign_symptom", "identifier": null, "start": 2164, "end": 2177, "source": "biomedical_ner", "score": 0.9994, "normalized_name": "hyperglycemia"}
+{"pmid": "42999643", "text": "overweight", "type": "Sign_symptom", "identifier": null, "start": 2210, "end": 2220, "source": "biomedical_ner", "score": 0.7505, "normalized_name": "overweight"}
+{"pmid": "42999643", "text": "higher", "type": "Lab_value", "identifier": null, "start": 2238, "end": 2244, "source": "biomedical_ner", "score": 0.674, "normalized_name": "higher"}
+{"pmid": "42999643", "text": "emergency", "type": "Nonbiological_location", "identifier": null, "start": 2254, "end": 2263, "source": "biomedical_ner", "score": 0.3824, "normalized_name": "emergency"}
+{"pmid": "42999643", "text": "visits", "type": "Clinical_event", "identifier": null, "start": 2264, "end": 2270, "source": "biomedical_ner", "score": 0.961, "normalized_name": "visits"}
+{"pmid": "42999643", "text": "blood glucose", "type": "Diagnostic_procedure", "identifier": null, "start": 2370, "end": 2383, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "blood glucose"}
+{"pmid": "42999643", "text": "t2dm", "type": "Disease_disorder", "identifier": null, "start": 2419, "end": 2423, "source": "biomedical_ner", "score": 0.9397, "normalized_name": "t2dm"}
+{"pmid": "42999643", "text": "bmi", "type": "Disease_disorder", "identifier": null, "start": 2431, "end": 2434, "source": "biomedical_ner", "score": 0.7162, "normalized_name": "bmi"}
+{"pmid": "42999643", "text": "fast", "type": "Therapeutic_procedure", "identifier": null, "start": 2459, "end": 2463, "source": "biomedical_ner", "score": 0.7949, "normalized_name": "fast"}
+{"pmid": "42999643", "text": "fasting", "type": "Sign_symptom", "identifier": null, "start": 2522, "end": 2529, "source": "biomedical_ner", "score": 0.9516, "normalized_name": "fasting"}
+{"pmid": "42999643", "text": "obe", "type": "Sign_symptom", "identifier": null, "start": 2621, "end": 2624, "source": "biomedical_ner", "score": 0.4834, "normalized_name": "obe"}
+{"pmid": "42999643", "text": "g", "type": "Diagnostic_procedure", "identifier": null, "start": 2641, "end": 2642, "source": "biomedical_ner", "score": 0.887, "normalized_name": "g"}
+{"pmid": "42999643", "text": "##ly", "type": "Diagnostic_procedure", "identifier": null, "start": 2642, "end": 2644, "source": "biomedical_ner", "score": 0.9605, "normalized_name": "##ly"}
+{"pmid": "42999643", "text": "##cemic control", "type": "Diagnostic_procedure", "identifier": null, "start": 2644, "end": 2657, "source": "biomedical_ner", "score": 0.821, "normalized_name": "##cemic control"}
+{"pmid": "42999643", "text": "complication", "type": "Sign_symptom", "identifier": null, "start": 2662, "end": 2674, "source": "biomedical_ner", "score": 0.98, "normalized_name": "complication"}
+{"pmid": "42999643", "text": "rates", "type": "Diagnostic_procedure", "identifier": null, "start": 2675, "end": 2680, "source": "biomedical_ner", "score": 0.5435, "normalized_name": "rates"}
+{"pmid": "42999643", "text": "fast", "type": "Coreference", "identifier": null, "start": 2688, "end": 2692, "source": "biomedical_ner", "score": 0.4219, "normalized_name": "fast"}
+{"pmid": "42999643", "text": "fasting", "type": "Therapeutic_procedure", "identifier": null, "start": 2821, "end": 2828, "source": "biomedical_ner", "score": 0.9608, "normalized_name": "fasting"}
+{"pmid": "42999637", "text": "type 2 diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 70, "end": 94, "source": "biomedical_ner", "score": 0.9978, "normalized_name": "type 2 diabetes mellitus"}
+{"pmid": "42999637", "text": "repeatedly", "type": "Detailed_description", "identifier": null, "start": 103, "end": 113, "source": "biomedical_ner", "score": 0.683, "normalized_name": "repeatedly"}
+{"pmid": "42999637", "text": "hospitalized", "type": "Clinical_event", "identifier": null, "start": 114, "end": 126, "source": "biomedical_ner", "score": 0.9851, "normalized_name": "hospitalized"}
+{"pmid": "42999637", "text": "longitudinal", "type": "Detailed_description", "identifier": null, "start": 532, "end": 544, "source": "biomedical_ner", "score": 0.6154, "normalized_name": "longitudinal"}
+{"pmid": "42999637", "text": "type 2 diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 666, "end": 690, "source": "biomedical_ner", "score": 0.998, "normalized_name": "type 2 diabetes mellitus"}
+{"pmid": "42999637", "text": "repeated", "type": "Detailed_description", "identifier": null, "start": 711, "end": 719, "source": "biomedical_ner", "score": 0.957, "normalized_name": "repeated"}
+{"pmid": "42999637", "text": "semi", "type": "Detailed_description", "identifier": null, "start": 780, "end": 784, "source": "biomedical_ner", "score": 0.9958, "normalized_name": "semi"}
+{"pmid": "42999637", "text": "admission", "type": "Clinical_event", "identifier": null, "start": 832, "end": 841, "source": "biomedical_ner", "score": 0.9, "normalized_name": "admission"}
+{"pmid": "42999637", "text": "second day", "type": "Date", "identifier": null, "start": 929, "end": 939, "source": "biomedical_ner", "score": 0.9856, "normalized_name": "second day"}
+{"pmid": "42999637", "text": "one day", "type": "Date", "identifier": null, "start": 960, "end": 967, "source": "biomedical_ner", "score": 0.9944, "normalized_name": "one day"}
+{"pmid": "42999637", "text": "three", "type": "Detailed_description", "identifier": null, "start": 990, "end": 995, "source": "biomedical_ner", "score": 0.8972, "normalized_name": "three"}
+{"pmid": "42999637", "text": "longitudinal analysis", "type": "Diagnostic_procedure", "identifier": null, "start": 1127, "end": 1148, "source": "biomedical_ner", "score": 0.8286, "normalized_name": "longitudinal analysis"}
+{"pmid": "42999637", "text": "four dimensions", "type": "Detailed_description", "identifier": null, "start": 1509, "end": 1524, "source": "biomedical_ner", "score": 0.9847, "normalized_name": "four dimensions"}
+{"pmid": "42999637", "text": "preference", "type": "Detailed_description", "identifier": null, "start": 1620, "end": 1630, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "preference"}
+{"pmid": "42999637", "text": "driven", "type": "Detailed_description", "identifier": null, "start": 1631, "end": 1637, "source": "biomedical_ner", "score": 0.9989, "normalized_name": "driven"}
+{"pmid": "42999637", "text": "seeking decisions", "type": "Detailed_description", "identifier": null, "start": 1643, "end": 1660, "source": "biomedical_ner", "score": 0.9069, "normalized_name": "seeking decisions"}
+{"pmid": "42999637", "text": "structured", "type": "Detailed_description", "identifier": null, "start": 1664, "end": 1674, "source": "biomedical_ner", "score": 0.9925, "normalized_name": "structured"}
+{"pmid": "42999637", "text": "treatment", "type": "Therapeutic_procedure", "identifier": null, "start": 1675, "end": 1684, "source": "biomedical_ner", "score": 0.4772, "normalized_name": "treatment"}
+{"pmid": "42999637", "text": "hospital", "type": "Nonbiological_location", "identifier": null, "start": 1907, "end": 1915, "source": "biomedical_ner", "score": 0.4296, "normalized_name": "hospital"}
+{"pmid": "42999637", "text": "ill", "type": "Lab_value", "identifier": null, "start": 1996, "end": 1999, "source": "biomedical_ner", "score": 0.4421, "normalized_name": "ill"}
+{"pmid": "42999637", "text": "##n", "type": "Detailed_description", "identifier": null, "start": 1999, "end": 2000, "source": "biomedical_ner", "score": 0.4799, "normalized_name": "##n"}
+{"pmid": "42999637", "text": "pain", "type": "Sign_symptom", "identifier": null, "start": 2135, "end": 2139, "source": "biomedical_ner", "score": 0.9979, "normalized_name": "pain"}
+{"pmid": "42999637", "text": "dilemma", "type": "Sign_symptom", "identifier": null, "start": 2206, "end": 2213, "source": "biomedical_ner", "score": 0.9924, "normalized_name": "dilemma"}
+{"pmid": "42999637", "text": "t2dm", "type": "Disease_disorder", "identifier": null, "start": 2516, "end": 2520, "source": "biomedical_ner", "score": 0.9058, "normalized_name": "t2dm"}
+{"pmid": "42999614", "text": "he", "type": "Biological_structure", "identifier": null, "start": 26, "end": 28, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "he"}
+{"pmid": "42999614", "text": "##pati", "type": "Biological_structure", "identifier": null, "start": 28, "end": 32, "source": "biomedical_ner", "score": 0.9953, "normalized_name": "##pati"}
+{"pmid": "42999614", "text": "##ato", "type": "Sign_symptom", "identifier": null, "start": 37, "end": 40, "source": "biomedical_ner", "score": 0.2851, "normalized_name": "##ato"}
+{"pmid": "42999614", "text": "low", "type": "Detailed_description", "identifier": null, "start": 61, "end": 64, "source": "biomedical_ner", "score": 0.9998, "normalized_name": "low"}
+{"pmid": "42999614", "text": "dose", "type": "Detailed_description", "identifier": null, "start": 65, "end": 69, "source": "biomedical_ner", "score": 0.9955, "normalized_name": "dose"}
+{"pmid": "42999614", "text": "computed tom", "type": "Diagnostic_procedure", "identifier": null, "start": 70, "end": 82, "source": "biomedical_ner", "score": 0.9957, "normalized_name": "computed tom"}
+{"pmid": "42999614", "text": "co", "type": "Detailed_description", "identifier": null, "start": 93, "end": 95, "source": "biomedical_ner", "score": 0.7413, "normalized_name": "co"}
+{"pmid": "42999614", "text": "he", "type": "Biological_structure", "identifier": null, "start": 118, "end": 120, "source": "biomedical_ner", "score": 0.6128, "normalized_name": "he"}
+{"pmid": "42999614", "text": "##pati", "type": "Biological_structure", "identifier": null, "start": 120, "end": 124, "source": "biomedical_ner", "score": 0.5157, "normalized_name": "##pati"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 126, "end": 135, "source": "biomedical_ner", "score": 0.958, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "nonenhanced", "type": "Detailed_description", "identifier": null, "start": 177, "end": 188, "source": "biomedical_ner", "score": 0.9228, "normalized_name": "nonenhanced"}
+{"pmid": "42999614", "text": "computed tomography", "type": "Diagnostic_procedure", "identifier": null, "start": 189, "end": 208, "source": "biomedical_ner", "score": 0.9954, "normalized_name": "computed tomography"}
+{"pmid": "42999614", "text": "ct", "type": "Diagnostic_procedure", "identifier": null, "start": 210, "end": 212, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "ct"}
+{"pmid": "42999614", "text": "he", "type": "Disease_disorder", "identifier": null, "start": 243, "end": 245, "source": "biomedical_ner", "score": 0.7001, "normalized_name": "he"}
+{"pmid": "42999614", "text": "##pati", "type": "Biological_structure", "identifier": null, "start": 245, "end": 249, "source": "biomedical_ner", "score": 0.6342, "normalized_name": "##pati"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 251, "end": 260, "source": "biomedical_ner", "score": 0.877, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "cardiovascular", "type": "Disease_disorder", "identifier": null, "start": 306, "end": 320, "source": "biomedical_ner", "score": 0.9281, "normalized_name": "cardiovascular"}
+{"pmid": "42999614", "text": "type 2 diabetes mellitus", "type": "Disease_disorder", "identifier": null, "start": 333, "end": 357, "source": "biomedical_ner", "score": 0.9968, "normalized_name": "type 2 diabetes mellitus"}
+{"pmid": "42999614", "text": "low", "type": "Detailed_description", "identifier": null, "start": 442, "end": 445, "source": "biomedical_ner", "score": 0.9985, "normalized_name": "low"}
+{"pmid": "42999614", "text": "dose", "type": "Detailed_description", "identifier": null, "start": 446, "end": 450, "source": "biomedical_ner", "score": 0.9827, "normalized_name": "dose"}
+{"pmid": "42999614", "text": "ct", "type": "Diagnostic_procedure", "identifier": null, "start": 451, "end": 453, "source": "biomedical_ner", "score": 0.9993, "normalized_name": "ct"}
+{"pmid": "42999614", "text": "ld", "type": "Coreference", "identifier": null, "start": 455, "end": 457, "source": "biomedical_ner", "score": 0.8363, "normalized_name": "ld"}
+{"pmid": "42999614", "text": "##ct", "type": "Coreference", "identifier": null, "start": 457, "end": 459, "source": "biomedical_ner", "score": 0.9444, "normalized_name": "##ct"}
+{"pmid": "42999614", "text": "lung", "type": "Biological_structure", "identifier": null, "start": 475, "end": 479, "source": "biomedical_ner", "score": 0.9974, "normalized_name": "lung"}
+{"pmid": "42999614", "text": "he", "type": "Biological_structure", "identifier": null, "start": 557, "end": 559, "source": "biomedical_ner", "score": 0.9976, "normalized_name": "he"}
+{"pmid": "42999614", "text": "##pati", "type": "Biological_structure", "identifier": null, "start": 559, "end": 563, "source": "biomedical_ner", "score": 0.9677, "normalized_name": "##pati"}
+{"pmid": "42999614", "text": "ct", "type": "Diagnostic_procedure", "identifier": null, "start": 618, "end": 620, "source": "biomedical_ner", "score": 0.7189, "normalized_name": "ct"}
+{"pmid": "42999614", "text": "co", "type": "Biological_structure", "identifier": null, "start": 650, "end": 652, "source": "biomedical_ner", "score": 0.9948, "normalized_name": "co"}
+{"pmid": "42999614", "text": "##aud liver", "type": "Biological_structure", "identifier": null, "start": 655, "end": 664, "source": "biomedical_ner", "score": 0.9255, "normalized_name": "##aud liver"}
+{"pmid": "42999614", "text": "he", "type": "Biological_structure", "identifier": null, "start": 713, "end": 715, "source": "biomedical_ner", "score": 0.962, "normalized_name": "he"}
+{"pmid": "42999614", "text": "##patic", "type": "Biological_structure", "identifier": null, "start": 715, "end": 720, "source": "biomedical_ner", "score": 0.7206, "normalized_name": "##patic"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 721, "end": 730, "source": "biomedical_ner", "score": 0.7141, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "lung", "type": "Biological_structure", "identifier": null, "start": 734, "end": 738, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "lung"}
+{"pmid": "42999614", "text": "single", "type": "Detailed_description", "identifier": null, "start": 832, "end": 838, "source": "biomedical_ner", "score": 0.9998, "normalized_name": "single"}
+{"pmid": "42999614", "text": "center", "type": "Detailed_description", "identifier": null, "start": 839, "end": 845, "source": "biomedical_ner", "score": 0.9958, "normalized_name": "center"}
+{"pmid": "42999614", "text": "he", "type": "Biological_structure", "identifier": null, "start": 862, "end": 864, "source": "biomedical_ner", "score": 0.9252, "normalized_name": "he"}
+{"pmid": "42999614", "text": "##pati", "type": "Biological_structure", "identifier": null, "start": 864, "end": 868, "source": "biomedical_ner", "score": 0.3387, "normalized_name": "##pati"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 870, "end": 879, "source": "biomedical_ner", "score": 0.7776, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "ld", "type": "Disease_disorder", "identifier": null, "start": 909, "end": 911, "source": "biomedical_ner", "score": 0.9785, "normalized_name": "ld"}
+{"pmid": "42999614", "text": "##ct", "type": "Coreference", "identifier": null, "start": 911, "end": 913, "source": "biomedical_ner", "score": 0.9191, "normalized_name": "##ct"}
+{"pmid": "42999614", "text": "lung", "type": "Biological_structure", "identifier": null, "start": 918, "end": 922, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "lung"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 977, "end": 986, "source": "biomedical_ner", "score": 0.9832, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "1", "type": "Distance", "identifier": null, "start": 1001, "end": 1002, "source": "biomedical_ner", "score": 0.9766, "normalized_name": "1"}
+{"pmid": "42999614", "text": ".", "type": "Lab_value", "identifier": null, "start": 1002, "end": 1003, "source": "biomedical_ner", "score": 0.7327, "normalized_name": "."}
+{"pmid": "42999614", "text": "5 mm", "type": "Distance", "identifier": null, "start": 1003, "end": 1007, "source": "biomedical_ner", "score": 0.6723, "normalized_name": "5 mm"}
+{"pmid": "42999614", "text": "soft - tissue reconstructions", "type": "Diagnostic_procedure", "identifier": null, "start": 1008, "end": 1035, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "soft - tissue reconstructions"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 1090, "end": 1099, "source": "biomedical_ner", "score": 0.9836, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "liver", "type": "Biological_structure", "identifier": null, "start": 1120, "end": 1125, "source": "biomedical_ner", "score": 0.9937, "normalized_name": "liver"}
+{"pmid": "42999614", "text": "< 40", "type": "Lab_value", "identifier": null, "start": 1138, "end": 1141, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "< 40"}
+{"pmid": "42999614", "text": "ho", "type": "Diagnostic_procedure", "identifier": null, "start": 1142, "end": 1144, "source": "biomedical_ner", "score": 0.9813, "normalized_name": "ho"}
+{"pmid": "42999614", "text": "##sfield units", "type": "Lab_value", "identifier": null, "start": 1146, "end": 1158, "source": "biomedical_ner", "score": 0.8021, "normalized_name": "##sfield units"}
+{"pmid": "42999614", "text": "unenhanced", "type": "Detailed_description", "identifier": null, "start": 1167, "end": 1177, "source": "biomedical_ner", "score": 0.945, "normalized_name": "unenhanced"}
+{"pmid": "42999614", "text": "ct", "type": "Coreference", "identifier": null, "start": 1178, "end": 1180, "source": "biomedical_ner", "score": 0.7479, "normalized_name": "ct"}
+{"pmid": "42999614", "text": "mean", "type": "Detailed_description", "identifier": null, "start": 1182, "end": 1186, "source": "biomedical_ner", "score": 0.7839, "normalized_name": "mean"}
+{"pmid": "42999614", "text": "ct", "type": "Diagnostic_procedure", "identifier": null, "start": 1187, "end": 1189, "source": "biomedical_ner", "score": 0.9851, "normalized_name": "ct"}
+{"pmid": "42999614", "text": "couinaud segment", "type": "Biological_structure", "identifier": null, "start": 1228, "end": 1244, "source": "biomedical_ner", "score": 0.9917, "normalized_name": "couinaud segment"}
+{"pmid": "42999614", "text": "soft", "type": "Detailed_description", "identifier": null, "start": 1248, "end": 1252, "source": "biomedical_ner", "score": 0.9833, "normalized_name": "soft"}
+{"pmid": "42999614", "text": "tissue", "type": "Detailed_description", "identifier": null, "start": 1253, "end": 1259, "source": "biomedical_ner", "score": 0.8446, "normalized_name": "tissue"}
+{"pmid": "42999614", "text": "1", "type": "Distance", "identifier": null, "start": 1260, "end": 1261, "source": "biomedical_ner", "score": 0.9561, "normalized_name": "1"}
+{"pmid": "42999614", "text": ".", "type": "Lab_value", "identifier": null, "start": 1261, "end": 1262, "source": "biomedical_ner", "score": 0.7422, "normalized_name": "."}
+{"pmid": "42999614", "text": "5 mm", "type": "Distance", "identifier": null, "start": 1262, "end": 1266, "source": "biomedical_ner", "score": 0.7087, "normalized_name": "5 mm"}
+{"pmid": "42999614", "text": "une", "type": "Detailed_description", "identifier": null, "start": 1267, "end": 1270, "source": "biomedical_ner", "score": 0.9987, "normalized_name": "une"}
+{"pmid": "42999614", "text": "##ance", "type": "Detailed_description", "identifier": null, "start": 1272, "end": 1276, "source": "biomedical_ner", "score": 0.6692, "normalized_name": "##ance"}
+{"pmid": "42999614", "text": "reconstruction", "type": "Detailed_description", "identifier": null, "start": 1278, "end": 1292, "source": "biomedical_ner", "score": 0.8686, "normalized_name": "reconstruction"}
+{"pmid": "42999614", "text": "normal", "type": "Lab_value", "identifier": null, "start": 1298, "end": 1304, "source": "biomedical_ner", "score": 0.6262, "normalized_name": "normal"}
+{"pmid": "42999614", "text": "intra", "type": "Biological_structure", "identifier": null, "start": 1312, "end": 1317, "source": "biomedical_ner", "score": 0.9985, "normalized_name": "intra"}
+{"pmid": "42999614", "text": "tracheal air", "type": "Biological_structure", "identifier": null, "start": 1326, "end": 1338, "source": "biomedical_ner", "score": 0.9623, "normalized_name": "tracheal air"}
+{"pmid": "42999614", "text": "interscan", "type": "Diagnostic_procedure", "identifier": null, "start": 1349, "end": 1358, "source": "biomedical_ner", "score": 0.9809, "normalized_name": "interscan"}
+{"pmid": "42999614", "text": "scanner", "type": "Diagnostic_procedure", "identifier": null, "start": 1382, "end": 1389, "source": "biomedical_ner", "score": 0.51, "normalized_name": "scanner"}
+{"pmid": "42999614", "text": "segmental differences", "type": "Sign_symptom", "identifier": null, "start": 1430, "end": 1451, "source": "biomedical_ner", "score": 0.9261, "normalized_name": "segmental differences"}
+{"pmid": "42999614", "text": "repeated - measures analysis of variance", "type": "Diagnostic_procedure", "identifier": null, "start": 1469, "end": 1507, "source": "biomedical_ner", "score": 0.9466, "normalized_name": "repeated - measures analysis of variance"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 1780, "end": 1789, "source": "biomedical_ner", "score": 0.9135, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "79", "type": "Lab_value", "identifier": null, "start": 1808, "end": 1810, "source": "biomedical_ner", "score": 0.9994, "normalized_name": "79"}
+{"pmid": "42999614", "text": "1", "type": "Detailed_description", "identifier": null, "start": 1837, "end": 1838, "source": "biomedical_ner", "score": 0.863, "normalized_name": "1"}
+{"pmid": "42999614", "text": ". 5 mm", "type": "Lab_value", "identifier": null, "start": 1838, "end": 1843, "source": "biomedical_ner", "score": 0.9547, "normalized_name": ". 5 mm"}
+{"pmid": "42999614", "text": "reconstruction", "type": "Diagnostic_procedure", "identifier": null, "start": 1844, "end": 1858, "source": "biomedical_ner", "score": 0.9622, "normalized_name": "reconstruction"}
+{"pmid": "42999614", "text": "steatosis", "type": "Disease_disorder", "identifier": null, "start": 1918, "end": 1927, "source": "biomedical_ner", "score": 0.9952, "normalized_name": "steatosis"}
+{"pmid": "42999614", "text": "younger", "type": "Lab_value", "identifier": null, "start": 1933, "end": 1940, "source": "biomedical_ner", "score": 0.3616, "normalized_name": "younger"}
+{"pmid": "42999614", "text": "61", "type": "Lab_value", "identifier": null, "start": 1949, "end": 1951, "source": "biomedical_ner", "score": 0.6951, "normalized_name": "61"}
+{"pmid": "42999614", "text": "higher", "type": "Lab_value", "identifier": null, "start": 1983, "end": 1989, "source": "biomedical_ner", "score": 0.9952, "normalized_name": "higher"}
+{"pmid": "42999614", "text": "bmi", "type": "Diagnostic_procedure", "identifier": null, "start": 1990, "end": 1993, "source": "biomedical_ner", "score": 0.784, "normalized_name": "bmi"}
+{"pmid": "42999614", "text": "mean", "type": "Detailed_description", "identifier": null, "start": 1995, "end": 1999, "source": "biomedical_ner", "score": 0.9311, "normalized_name": "mean"}
+{"pmid": "42999614", "text": "32. 43", "type": "Lab_value", "identifier": null, "start": 2000, "end": 2005, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "32. 43"}
+{"pmid": "42999614", "text": ". 59", "type": "Lab_value", "identifier": null, "start": 2012, "end": 2015, "source": "biomedical_ner", "score": 0.917, "normalized_name": ". 59"}
+{"pmid": "42999614", "text": "liver attenuation", "type": "Diagnostic_procedure", "identifier": null, "start": 2037, "end": 2054, "source": "biomedical_ner", "score": 0.9839, "normalized_name": "liver attenuation"}
+{"pmid": "42999614", "text": "-", "type": "Lab_value", "identifier": null, "start": 2059, "end": 2060, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "-"}
+{"pmid": "42999614", "text": "30. 9±30. 5 hu", "type": "Lab_value", "identifier": null, "start": 2060, "end": 2072, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "30. 9±30. 5 hu"}
+{"pmid": "42999614", "text": "segmental attenuation", "type": "Diagnostic_procedure", "identifier": null, "start": 2102, "end": 2123, "source": "biomedical_ner", "score": 0.9998, "normalized_name": "segmental attenuation"}
+{"pmid": "42999614", "text": "-", "type": "Lab_value", "identifier": null, "start": 2136, "end": 2137, "source": "biomedical_ner", "score": 0.9862, "normalized_name": "-"}
+{"pmid": "42999614", "text": "27. 1±30. 8 hu", "type": "Lab_value", "identifier": null, "start": 2137, "end": 2149, "source": "biomedical_ner", "score": 0.9768, "normalized_name": "27. 1±30. 8 hu"}
+{"pmid": "42999614", "text": "segment 1", "type": "Biological_structure", "identifier": null, "start": 2153, "end": 2162, "source": "biomedical_ner", "score": 0.5793, "normalized_name": "segment 1"}
+{"pmid": "42999614", "text": "-", "type": "Lab_value", "identifier": null, "start": 2181, "end": 2182, "source": "biomedical_ner", "score": 0.9997, "normalized_name": "-"}
+{"pmid": "42999614", "text": "34. 0±30. 9 hu", "type": "Lab_value", "identifier": null, "start": 2182, "end": 2194, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "34. 0±30. 9 hu"}
+{"pmid": "42999614", "text": "repeated - measures", "type": "Diagnostic_procedure", "identifier": null, "start": 2209, "end": 2226, "source": "biomedical_ner", "score": 0.9623, "normalized_name": "repeated - measures"}
+{"pmid": "42999614", "text": "anova", "type": "Diagnostic_procedure", "identifier": null, "start": 2227, "end": 2232, "source": "biomedical_ner", "score": 0.9958, "normalized_name": "anova"}
+{"pmid": "42999614", "text": "significant", "type": "Severity", "identifier": null, "start": 2246, "end": 2257, "source": "biomedical_ner", "score": 0.5741, "normalized_name": "significant"}
+{"pmid": "42999614", "text": "segmental variation", "type": "Sign_symptom", "identifier": null, "start": 2258, "end": 2277, "source": "biomedical_ner", "score": 0.995, "normalized_name": "segmental variation"}
+{"pmid": "42999614", "text": "segment", "type": "Detailed_description", "identifier": null, "start": 2289, "end": 2296, "source": "biomedical_ner", "score": 0.8641, "normalized_name": "segment"}
+{"pmid": "42999614", "text": "1", "type": "Diagnostic_procedure", "identifier": null, "start": 2297, "end": 2298, "source": "biomedical_ner", "score": 0.7277, "normalized_name": "1"}
+{"pmid": "42999614", "text": "higher", "type": "Lab_value", "identifier": null, "start": 2306, "end": 2312, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "higher"}
+{"pmid": "42999614", "text": "4", "type": "Detailed_description", "identifier": null, "start": 2346, "end": 2347, "source": "biomedical_ner", "score": 0.8681, "normalized_name": "4"}
+{"pmid": "42999614", "text": "6, 7", "type": "Detailed_description", "identifier": null, "start": 2350, "end": 2354, "source": "biomedical_ner", "score": 0.7966, "normalized_name": "6, 7"}
+{"pmid": "42999614", "text": "and 8", "type": "Detailed_description", "identifier": null, "start": 2356, "end": 2361, "source": "biomedical_ner", "score": 0.676, "normalized_name": "and 8"}
+{"pmid": "42999614", "text": "segments", "type": "Biological_structure", "identifier": null, "start": 2428, "end": 2436, "source": "biomedical_ner", "score": 0.7839, "normalized_name": "segments"}
+{"pmid": "42999614", "text": "8", "type": "Detailed_description", "identifier": null, "start": 2443, "end": 2444, "source": "biomedical_ner", "score": 0.7981, "normalized_name": "8"}
+{"pmid": "42999614", "text": "within - patient", "type": "Diagnostic_procedure", "identifier": null, "start": 2473, "end": 2487, "source": "biomedical_ner", "score": 0.818, "normalized_name": "within - patient"}
+{"pmid": "42999614", "text": "variability", "type": "Diagnostic_procedure", "identifier": null, "start": 2488, "end": 2499, "source": "biomedical_ner", "score": 0.9985, "normalized_name": "variability"}
+{"pmid": "42999614", "text": "modest", "type": "Lab_value", "identifier": null, "start": 2504, "end": 2510, "source": "biomedical_ner", "score": 0.9997, "normalized_name": "modest"}
+{"pmid": "42999614", "text": "multi", "type": "Detailed_description", "identifier": null, "start": 2605, "end": 2610, "source": "biomedical_ner", "score": 0.6044, "normalized_name": "multi"}
+{"pmid": "42999614", "text": "linear", "type": "Coreference", "identifier": null, "start": 2619, "end": 2625, "source": "biomedical_ner", "score": 0.5172, "normalized_name": "linear"}
+{"pmid": "42999614", "text": "older", "type": "Age", "identifier": null, "start": 2638, "end": 2643, "source": "biomedical_ner", "score": 0.2292, "normalized_name": "older"}
+{"pmid": "42999614", "text": "age", "type": "Diagnostic_procedure", "identifier": null, "start": 2644, "end": 2647, "source": "biomedical_ner", "score": 0.2599, "normalized_name": "age"}
+{"pmid": "42999614", "text": "female", "type": "Diagnostic_procedure", "identifier": null, "start": 2676, "end": 2682, "source": "biomedical_ner", "score": 0.362, "normalized_name": "female"}
+{"pmid": "42999614", "text": "higher", "type": "Lab_value", "identifier": null, "start": 2740, "end": 2746, "source": "biomedical_ner", "score": 0.8827, "normalized_name": "higher"}
+{"pmid": "42999614", "text": "liver", "type": "Diagnostic_procedure", "identifier": null, "start": 2747, "end": 2752, "source": "biomedical_ner", "score": 0.9461, "normalized_name": "liver"}
+{"pmid": "42999614", "text": "d", "type": "Disease_disorder", "identifier": null, "start": 2772, "end": 2773, "source": "biomedical_ner", "score": 0.8602, "normalized_name": "d"}
+{"pmid": "42999614", "text": "##m", "type": "Sign_symptom", "identifier": null, "start": 2773, "end": 2774, "source": "biomedical_ner", "score": 0.7438, "normalized_name": "##m"}
+{"pmid": "42999614", "text": "lower", "type": "Sign_symptom", "identifier": null, "start": 2795, "end": 2800, "source": "biomedical_ner", "score": 0.5047, "normalized_name": "lower"}
+{"pmid": "42999614", "text": "at", "type": "Sign_symptom", "identifier": null, "start": 2801, "end": 2803, "source": "biomedical_ner", "score": 0.5047, "normalized_name": "at"}
+{"pmid": "42999614", "text": "##uation", "type": "Sign_symptom", "identifier": null, "start": 2806, "end": 2812, "source": "biomedical_ner", "score": 0.6739, "normalized_name": "##uation"}
+{"pmid": "42999614", "text": "mean", "type": "Diagnostic_procedure", "identifier": null, "start": 2879, "end": 2883, "source": "biomedical_ner", "score": 0.989, "normalized_name": "mean"}
+{"pmid": "42999614", "text": "at", "type": "Sign_symptom", "identifier": null, "start": 2884, "end": 2886, "source": "biomedical_ner", "score": 0.6461, "normalized_name": "at"}
+{"pmid": "42999614", "text": "##ten", "type": "Lab_value", "identifier": null, "start": 2886, "end": 2889, "source": "biomedical_ner", "score": 0.957, "normalized_name": "##ten"}
+{"pmid": "42999614", "text": "##uation", "type": "Diagnostic_procedure", "identifier": null, "start": 2889, "end": 2895, "source": "biomedical_ner", "score": 0.5295, "normalized_name": "##uation"}
+{"pmid": "42999614", "text": "at", "type": "Sign_symptom", "identifier": null, "start": 2962, "end": 2964, "source": "biomedical_ner", "score": 0.8647, "normalized_name": "at"}
+{"pmid": "42999614", "text": "pr", "type": "Disease_disorder", "identifier": null, "start": 2994, "end": 2996, "source": "biomedical_ner", "score": 0.7989, "normalized_name": "pr"}
+{"pmid": "42999614", "text": "##act", "type": "Disease_disorder", "identifier": null, "start": 2996, "end": 2999, "source": "biomedical_ner", "score": 0.8593, "normalized_name": "##act"}
+{"pmid": "42999614", "text": "##i", "type": "Disease_disorder", "identifier": null, "start": 2999, "end": 3000, "source": "biomedical_ner", "score": 0.7775, "normalized_name": "##i"}
+{"pmid": "42999614", "text": "cal", "type": "Diagnostic_procedure", "identifier": null, "start": 3000, "end": 3003, "source": "biomedical_ner", "score": 0.8365, "normalized_name": "cal"}
+{"pmid": "42999614", "text": "segment measurement approach", "type": "Detailed_description", "identifier": null, "start": 3104, "end": 3132, "source": "biomedical_ner", "score": 0.8747, "normalized_name": "segment measurement approach"}
+{"pmid": "42999564", "text": "diabetes mel", "type": "Disease_disorder", "identifier": null, "start": 32, "end": 44, "source": "biomedical_ner", "score": 0.7013, "normalized_name": "diabetes mel"}
+{"pmid": "42999564", "text": "diabetes", "type": "Disease_disorder", "identifier": null, "start": 175, "end": 183, "source": "biomedical_ner", "score": 0.7928, "normalized_name": "diabetes"}
+{"pmid": "42999564", "text": "men", "type": "Diagnostic_procedure", "identifier": null, "start": 229, "end": 232, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "men"}
+{"pmid": "42999564", "text": "##delian randomization", "type": "Diagnostic_procedure", "identifier": null, "start": 232, "end": 252, "source": "biomedical_ner", "score": 0.8934, "normalized_name": "##delian randomization"}
+{"pmid": "42999564", "text": "mr", "type": "Diagnostic_procedure", "identifier": null, "start": 254, "end": 256, "source": "biomedical_ner", "score": 0.9458, "normalized_name": "mr"}
+{"pmid": "42999564", "text": "analysis", "type": "Diagnostic_procedure", "identifier": null, "start": 258, "end": 266, "source": "biomedical_ner", "score": 0.9989, "normalized_name": "analysis"}
+{"pmid": "42999564", "text": "study", "type": "Diagnostic_procedure", "identifier": null, "start": 369, "end": 374, "source": "biomedical_ner", "score": 0.9849, "normalized_name": "study"}
+{"pmid": "42999564", "text": "type 1 diabetes", "type": "Disease_disorder", "identifier": null, "start": 398, "end": 413, "source": "biomedical_ner", "score": 0.9081, "normalized_name": "type 1 diabetes"}
+{"pmid": "42999564", "text": "type 2 diabetes", "type": "Disease_disorder", "identifier": null, "start": 434, "end": 449, "source": "biomedical_ner", "score": 0.8991, "normalized_name": "type 2 diabetes"}
+{"pmid": "42999564", "text": "hemoglobin a1c", "type": "Diagnostic_procedure", "identifier": null, "start": 470, "end": 484, "source": "biomedical_ner", "score": 0.9989, "normalized_name": "hemoglobin a1c"}
+{"pmid": "42999564", "text": "fasting glucose", "type": "Diagnostic_procedure", "identifier": null, "start": 507, "end": 522, "source": "biomedical_ner", "score": 0.999, "normalized_name": "fasting glucose"}
+{"pmid": "42999564", "text": "2 - hour glucose post - oral challenge", "type": "Diagnostic_procedure", "identifier": null, "start": 546, "end": 580, "source": "biomedical_ner", "score": 0.9479, "normalized_name": "2 - hour glucose post - oral challenge"}
+{"pmid": "42999564", "text": "men", "type": "Diagnostic_procedure", "identifier": null, "start": 662, "end": 665, "source": "biomedical_ner", "score": 0.8941, "normalized_name": "men"}
+{"pmid": "42999564", "text": "1835", "type": "Lab_value", "identifier": null, "start": 679, "end": 683, "source": "biomedical_ner", "score": 0.5144, "normalized_name": "1835"}
+{"pmid": "42999564", "text": "genetic variants", "type": "Diagnostic_procedure", "identifier": null, "start": 795, "end": 811, "source": "biomedical_ner", "score": 0.914, "normalized_name": "genetic variants"}
+{"pmid": "42999564", "text": "inverse", "type": "Detailed_description", "identifier": null, "start": 897, "end": 904, "source": "biomedical_ner", "score": 0.9372, "normalized_name": "inverse"}
+{"pmid": "42999564", "text": "variance", "type": "Detailed_description", "identifier": null, "start": 905, "end": 913, "source": "biomedical_ner", "score": 0.9017, "normalized_name": "variance"}
+{"pmid": "42999564", "text": "weighted regression", "type": "Diagnostic_procedure", "identifier": null, "start": 914, "end": 933, "source": "biomedical_ner", "score": 0.8085, "normalized_name": "weighted regression"}
+{"pmid": "42999564", "text": "sensitivity analyses", "type": "Diagnostic_procedure", "identifier": null, "start": 1041, "end": 1061, "source": "biomedical_ner", "score": 0.9843, "normalized_name": "sensitivity analyses"}
+{"pmid": "42999564", "text": "genetically", "type": "Detailed_description", "identifier": null, "start": 1237, "end": 1248, "source": "biomedical_ner", "score": 0.676, "normalized_name": "genetically"}
+{"pmid": "42999564", "text": "liability", "type": "Family_history", "identifier": null, "start": 1259, "end": 1268, "source": "biomedical_ner", "score": 0.4875, "normalized_name": "liability"}
+{"pmid": "42999564", "text": "t", "type": "Disease_disorder", "identifier": null, "start": 1272, "end": 1273, "source": "biomedical_ner", "score": 0.6378, "normalized_name": "t"}
+{"pmid": "42999564", "text": "##2d", "type": "Coreference", "identifier": null, "start": 1273, "end": 1275, "source": "biomedical_ner", "score": 0.7379, "normalized_name": "##2d"}
+{"pmid": "42999564", "text": "meningioma", "type": "Disease_disorder", "identifier": null, "start": 1335, "end": 1345, "source": "biomedical_ner", "score": 0.9721, "normalized_name": "meningioma"}
+{"pmid": "42999564", "text": "iv", "type": "Diagnostic_procedure", "identifier": null, "start": 1347, "end": 1349, "source": "biomedical_ner", "score": 0.8463, "normalized_name": "iv"}
+{"pmid": "42999564", "text": "no", "type": "Lab_value", "identifier": null, "start": 1512, "end": 1514, "source": "biomedical_ner", "score": 0.679, "normalized_name": "no"}
+{"pmid": "42999564", "text": "t", "type": "Diagnostic_procedure", "identifier": null, "start": 1555, "end": 1556, "source": "biomedical_ner", "score": 0.8405, "normalized_name": "t"}
+{"pmid": "42999564", "text": "##1d", "type": "Coreference", "identifier": null, "start": 1556, "end": 1558, "source": "biomedical_ner", "score": 0.8432, "normalized_name": "##1d"}
+{"pmid": "42999564", "text": "hba1c", "type": "Diagnostic_procedure", "identifier": null, "start": 1572, "end": 1577, "source": "biomedical_ner", "score": 0.7774, "normalized_name": "hba1c"}
+{"pmid": "42999564", "text": "fg", "type": "Diagnostic_procedure", "identifier": null, "start": 1591, "end": 1593, "source": "biomedical_ner", "score": 0.9921, "normalized_name": "fg"}
+{"pmid": "42999564", "text": "2hglu", "type": "Diagnostic_procedure", "identifier": null, "start": 1607, "end": 1612, "source": "biomedical_ner", "score": 0.8981, "normalized_name": "2hglu"}
+{"pmid": "42999564", "text": "sensitivity analyses", "type": "Diagnostic_procedure", "identifier": null, "start": 1663, "end": 1683, "source": "biomedical_ner", "score": 0.986, "normalized_name": "sensitivity analyses"}
+{"pmid": "42999564", "text": "reverse", "type": "Detailed_description", "identifier": null, "start": 1743, "end": 1750, "source": "biomedical_ner", "score": 0.9998, "normalized_name": "reverse"}
+{"pmid": "42999564", "text": "mr", "type": "Diagnostic_procedure", "identifier": null, "start": 1751, "end": 1753, "source": "biomedical_ner", "score": 0.8854, "normalized_name": "mr"}
+{"pmid": "42999564", "text": "men", "type": "Disease_disorder", "identifier": null, "start": 1818, "end": 1821, "source": "biomedical_ner", "score": 0.9379, "normalized_name": "men"}
+{"pmid": "42999564", "text": "mr", "type": "Diagnostic_procedure", "identifier": null, "start": 1857, "end": 1859, "source": "biomedical_ner", "score": 0.4678, "normalized_name": "mr"}
+{"pmid": "42999564", "text": "intra", "type": "Biological_structure", "identifier": null, "start": 2000, "end": 2005, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "intra"}
+{"pmid": "42999564", "text": "##anial", "type": "Biological_structure", "identifier": null, "start": 2007, "end": 2012, "source": "biomedical_ner", "score": 0.936, "normalized_name": "##anial"}
+{"pmid": "42999564", "text": "meningioma", "type": "Disease_disorder", "identifier": null, "start": 2013, "end": 2023, "source": "biomedical_ner", "score": 0.9914, "normalized_name": "meningioma"}
+{"pmid": "42999564", "text": "t1d", "type": "Disease_disorder", "identifier": null, "start": 2147, "end": 2150, "source": "biomedical_ner", "score": 0.8675, "normalized_name": "t1d"}
+{"pmid": "42999545", "text": "or", "type": "Medication", "identifier": null, "start": 0, "end": 2, "source": "biomedical_ner", "score": 0.9987, "normalized_name": "or"}
+{"pmid": "42999545", "text": "##for", "type": "Medication", "identifier": null, "start": 2, "end": 5, "source": "biomedical_ner", "score": 0.9565, "normalized_name": "##for"}
+{"pmid": "42999545", "text": "##pron", "type": "Medication", "identifier": null, "start": 8, "end": 12, "source": "biomedical_ner", "score": 0.8793, "normalized_name": "##pron"}
+{"pmid": "42999545", "text": "improved", "type": "Lab_value", "identifier": null, "start": 13, "end": 21, "source": "biomedical_ner", "score": 0.97, "normalized_name": "improved"}
+{"pmid": "42999545", "text": "physical and", "type": "Diagnostic_procedure", "identifier": null, "start": 22, "end": 34, "source": "biomedical_ner", "score": 0.7545, "normalized_name": "physical and"}
+{"pmid": "42999545", "text": "psychosocial functioning", "type": "Diagnostic_procedure", "identifier": null, "start": 35, "end": 59, "source": "biomedical_ner", "score": 0.9958, "normalized_name": "psychosocial functioning"}
+{"pmid": "42999545", "text": "obesity", "type": "Disease_disorder", "identifier": null, "start": 75, "end": 82, "source": "biomedical_ner", "score": 0.9936, "normalized_name": "obesity"}
+{"pmid": "42999545", "text": "or", "type": "Medication", "identifier": null, "start": 190, "end": 192, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "or"}
+{"pmid": "42999545", "text": "##for", "type": "Medication", "identifier": null, "start": 192, "end": 195, "source": "biomedical_ner", "score": 0.9968, "normalized_name": "##for"}
+{"pmid": "42999545", "text": "##pron", "type": "Medication", "identifier": null, "start": 198, "end": 202, "source": "biomedical_ner", "score": 0.9288, "normalized_name": "##pron"}
+{"pmid": "42999545", "text": "weight reduction", "type": "Sign_symptom", "identifier": null, "start": 237, "end": 253, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "weight reduction"}
+{"pmid": "42999545", "text": "obesity", "type": "Disease_disorder", "identifier": null, "start": 272, "end": 279, "source": "biomedical_ner", "score": 0.9771, "normalized_name": "obesity"}
+{"pmid": "42999545", "text": "type", "type": "Detailed_description", "identifier": null, "start": 296, "end": 300, "source": "biomedical_ner", "score": 0.9043, "normalized_name": "type"}
+{"pmid": "42999545", "text": "attain", "type": "Lab_value", "identifier": null, "start": 405, "end": 411, "source": "biomedical_ner", "score": 0.9258, "normalized_name": "attain"}
+{"pmid": "42999545", "text": "life", "type": "Diagnostic_procedure", "identifier": null, "start": 455, "end": 459, "source": "biomedical_ner", "score": 0.9423, "normalized_name": "life"}
+{"pmid": "42999545", "text": "hr", "type": "Diagnostic_procedure", "identifier": null, "start": 461, "end": 463, "source": "biomedical_ner", "score": 0.8386, "normalized_name": "hr"}
+{"pmid": "42999545", "text": "baseline", "type": "Detailed_description", "identifier": null, "start": 486, "end": 494, "source": "biomedical_ner", "score": 0.6647, "normalized_name": "baseline"}
+{"pmid": "42999545", "text": "week 72", "type": "Detailed_description", "identifier": null, "start": 498, "end": 505, "source": "biomedical_ner", "score": 0.706, "normalized_name": "week 72"}
+{"pmid": "42999545", "text": "weight", "type": "Diagnostic_procedure", "identifier": null, "start": 602, "end": 608, "source": "biomedical_ner", "score": 0.8932, "normalized_name": "weight"}
+{"pmid": "42999545", "text": "eq", "type": "Diagnostic_procedure", "identifier": null, "start": 674, "end": 676, "source": "biomedical_ner", "score": 0.9496, "normalized_name": "eq"}
+{"pmid": "42999545", "text": "- 5d - 5l", "type": "Detailed_description", "identifier": null, "start": 676, "end": 682, "source": "biomedical_ner", "score": 0.7082, "normalized_name": "- 5d - 5l"}
+{"pmid": "42999545", "text": "eq", "type": "Diagnostic_procedure", "identifier": null, "start": 698, "end": 700, "source": "biomedical_ner", "score": 0.9987, "normalized_name": "eq"}
+{"pmid": "42999545", "text": "analog scale", "type": "Diagnostic_procedure", "identifier": null, "start": 708, "end": 720, "source": "biomedical_ner", "score": 0.9851, "normalized_name": "analog scale"}
+{"pmid": "42999545", "text": "changes", "type": "Lab_value", "identifier": null, "start": 877, "end": 884, "source": "biomedical_ner", "score": 0.9707, "normalized_name": "changes"}
+{"pmid": "42999545", "text": "or", "type": "Medication", "identifier": null, "start": 903, "end": 905, "source": "biomedical_ner", "score": 0.8715, "normalized_name": "or"}
+{"pmid": "42999545", "text": "##for", "type": "Coreference", "identifier": null, "start": 905, "end": 908, "source": "biomedical_ner", "score": 0.7067, "normalized_name": "##for"}
+{"pmid": "42999545", "text": "body mass index", "type": "Diagnostic_procedure", "identifier": null, "start": 940, "end": 955, "source": "biomedical_ner", "score": 0.9919, "normalized_name": "body mass index"}
+{"pmid": "42999545", "text": "b", "type": "Diagnostic_procedure", "identifier": null, "start": 957, "end": 958, "source": "biomedical_ner", "score": 0.7237, "normalized_name": "b"}
+{"pmid": "42999545", "text": "<", "type": "Lab_value", "identifier": null, "start": 973, "end": 974, "source": "biomedical_ner", "score": 0.9862, "normalized_name": "<"}
+{"pmid": "42999545", "text": "<", "type": "Lab_value", "identifier": null, "start": 991, "end": 992, "source": "biomedical_ner", "score": 0.9999, "normalized_name": "<"}
+{"pmid": "42999545", "text": "kg / m2", "type": "Lab_value", "identifier": null, "start": 995, "end": 1000, "source": "biomedical_ner", "score": 0.8939, "normalized_name": "kg / m2"}
+{"pmid": "42999545", "text": "physical", "type": "Diagnostic_procedure", "identifier": null, "start": 1033, "end": 1041, "source": "biomedical_ner", "score": 0.9924, "normalized_name": "physical"}
+{"pmid": "42999545", "text": "mixed - model", "type": "Detailed_description", "identifier": null, "start": 1086, "end": 1097, "source": "biomedical_ner", "score": 0.9441, "normalized_name": "mixed - model"}
+{"pmid": "42999545", "text": "repeated - measures", "type": "Diagnostic_procedure", "identifier": null, "start": 1102, "end": 1119, "source": "biomedical_ner", "score": 0.99, "normalized_name": "repeated - measures"}
+{"pmid": "42999545", "text": "mm", "type": "Diagnostic_procedure", "identifier": null, "start": 1121, "end": 1123, "source": "biomedical_ner", "score": 0.999, "normalized_name": "mm"}
+{"pmid": "42999545", "text": "##rm", "type": "Diagnostic_procedure", "identifier": null, "start": 1123, "end": 1125, "source": "biomedical_ner", "score": 0.5862, "normalized_name": "##rm"}
+{"pmid": "42999545", "text": "or", "type": "Medication", "identifier": null, "start": 1231, "end": 1233, "source": "biomedical_ner", "score": 0.9995, "normalized_name": "or"}
+{"pmid": "42999545", "text": "##for", "type": "Medication", "identifier": null, "start": 1233, "end": 1236, "source": "biomedical_ner", "score": 0.9858, "normalized_name": "##for"}
+{"pmid": "42999545", "text": "##pron", "type": "Medication", "identifier": null, "start": 1239, "end": 1243, "source": "biomedical_ner", "score": 0.7319, "normalized_name": "##pron"}
+{"pmid": "42999545", "text": "greater improvements", "type": "Lab_value", "identifier": null, "start": 1257, "end": 1277, "source": "biomedical_ner", "score": 0.9955, "normalized_name": "greater improvements"}
+{"pmid": "42999545", "text": "placebo", "type": "Diagnostic_procedure", "identifier": null, "start": 1292, "end": 1299, "source": "biomedical_ner", "score": 0.9937, "normalized_name": "placebo"}
+{"pmid": "42999545", "text": "pro", "type": "Diagnostic_procedure", "identifier": null, "start": 1303, "end": 1306, "source": "biomedical_ner", "score": 0.9255, "normalized_name": "pro"}
+{"pmid": "42999545", "text": "sf", "type": "Diagnostic_procedure", "identifier": null, "start": 1320, "end": 1322, "source": "biomedical_ner", "score": 0.7076, "normalized_name": "sf"}
+{"pmid": "42999545", "text": "iwq", "type": "Diagnostic_procedure", "identifier": null, "start": 1329, "end": 1332, "source": "biomedical_ner", "score": 0.9654, "normalized_name": "iwq"}
+{"pmid": "42999545", "text": "##ol - lite -", "type": "Diagnostic_procedure", "identifier": null, "start": 1332, "end": 1340, "source": "biomedical_ner", "score": 0.9898, "normalized_name": "##ol - lite -"}
+{"pmid": "42999545", "text": "ct", "type": "Diagnostic_procedure", "identifier": null, "start": 1340, "end": 1342, "source": "biomedical_ner", "score": 0.9623, "normalized_name": "ct"}
+{"pmid": "42999545", "text": "eq - 5d - 5l", "type": "Diagnostic_procedure", "identifier": null, "start": 1347, "end": 1355, "source": "biomedical_ner", "score": 0.9991, "normalized_name": "eq - 5d - 5l"}
+{"pmid": "42999545", "text": "attain", "type": "Detailed_description", "identifier": null, "start": 1536, "end": 1542, "source": "biomedical_ner", "score": 0.9817, "normalized_name": "attain"}
+{"pmid": "42999545", "text": "higher", "type": "Lab_value", "identifier": null, "start": 1550, "end": 1556, "source": "biomedical_ner", "score": 0.9931, "normalized_name": "higher"}
+{"pmid": "42999545", "text": "b", "type": "Diagnostic_procedure", "identifier": null, "start": 1566, "end": 1567, "source": "biomedical_ner", "score": 1.0, "normalized_name": "b"}
+{"pmid": "42999545", "text": "##mi", "type": "Diagnostic_procedure", "identifier": null, "start": 1567, "end": 1569, "source": "biomedical_ner", "score": 0.9727, "normalized_name": "##mi"}
+{"pmid": "42999545", "text": "physical function", "type": "Diagnostic_procedure", "identifier": null, "start": 1594, "end": 1611, "source": "biomedical_ner", "score": 0.983, "normalized_name": "physical function"}
+{"pmid": "42999545", "text": "attain", "type": "Detailed_description", "identifier": null, "start": 1682, "end": 1688, "source": "biomedical_ner", "score": 0.9978, "normalized_name": "attain"}
+{"pmid": "42999545", "text": "attain", "type": "Detailed_description", "identifier": null, "start": 1695, "end": 1701, "source": "biomedical_ner", "score": 0.9729, "normalized_name": "attain"}
+{"pmid": "42999545", "text": "or", "type": "Medication", "identifier": null, "start": 1712, "end": 1714, "source": "biomedical_ner", "score": 0.9994, "normalized_name": "or"}
+{"pmid": "42999545", "text": "##for", "type": "Medication", "identifier": null, "start": 1714, "end": 1717, "source": "biomedical_ner", "score": 0.993, "normalized_name": "##for"}
+{"pmid": "42999545", "text": "##pro", "type": "Medication", "identifier": null, "start": 1720, "end": 1723, "source": "biomedical_ner", "score": 0.7, "normalized_name": "##pro"}
+{"pmid": "42999545", "text": "body weight", "type": "Sign_symptom", "identifier": null, "start": 1767, "end": 1778, "source": "biomedical_ner", "score": 0.9193, "normalized_name": "body weight"}
+{"pmid": "42999545", "text": "improvements", "type": "Lab_value", "identifier": null, "start": 1793, "end": 1805, "source": "biomedical_ner", "score": 0.9987, "normalized_name": "improvements"}
+{"pmid": "42999545", "text": "enhancement", "type": "Sign_symptom", "identifier": null, "start": 1849, "end": 1860, "source": "biomedical_ner", "score": 0.9739, "normalized_name": "enhancement"}
+{"pmid": "42999545", "text": "functioning", "type": "Diagnostic_procedure", "identifier": null, "start": 1874, "end": 1885, "source": "biomedical_ner", "score": 0.985, "normalized_name": "functioning"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 0, "end": 7, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "g", "type": "Detailed_description", "identifier": null, "start": 32, "end": 33, "source": "biomedical_ner", "score": 0.5046, "normalized_name": "g"}
+{"pmid": "42999457", "text": "##lu", "type": "Medication", "identifier": null, "start": 33, "end": 35, "source": "biomedical_ner", "score": 0.5285, "normalized_name": "##lu"}
+{"pmid": "42999457", "text": "##gon", "type": "Medication", "identifier": null, "start": 37, "end": 40, "source": "biomedical_ner", "score": 0.6469, "normalized_name": "##gon"}
+{"pmid": "42999457", "text": "- 1", "type": "Medication", "identifier": null, "start": 53, "end": 55, "source": "biomedical_ner", "score": 0.7819, "normalized_name": "- 1"}
+{"pmid": "42999457", "text": "glp", "type": "Medication", "identifier": null, "start": 57, "end": 60, "source": "biomedical_ner", "score": 0.8152, "normalized_name": "glp"}
+{"pmid": "42999457", "text": "therapy", "type": "Coreference", "identifier": null, "start": 70, "end": 77, "source": "biomedical_ner", "score": 0.5529, "normalized_name": "therapy"}
+{"pmid": "42999457", "text": "type", "type": "Detailed_description", "identifier": null, "start": 81, "end": 85, "source": "biomedical_ner", "score": 0.9961, "normalized_name": "type"}
+{"pmid": "42999457", "text": "##lu", "type": "Medication", "identifier": null, "start": 144, "end": 146, "source": "biomedical_ner", "score": 0.4891, "normalized_name": "##lu"}
+{"pmid": "42999457", "text": "- 1", "type": "Medication", "identifier": null, "start": 164, "end": 166, "source": "biomedical_ner", "score": 0.8677, "normalized_name": "- 1"}
+{"pmid": "42999457", "text": "g", "type": "Medication", "identifier": null, "start": 168, "end": 169, "source": "biomedical_ner", "score": 0.7066, "normalized_name": "g"}
+{"pmid": "42999457", "text": "the", "type": "Therapeutic_procedure", "identifier": null, "start": 181, "end": 184, "source": "biomedical_ner", "score": 0.4046, "normalized_name": "the"}
+{"pmid": "42999457", "text": "##pies", "type": "Therapeutic_procedure", "identifier": null, "start": 186, "end": 190, "source": "biomedical_ner", "score": 0.5876, "normalized_name": "##pies"}
+{"pmid": "42999457", "text": "glycemic control", "type": "Diagnostic_procedure", "identifier": null, "start": 300, "end": 316, "source": "biomedical_ner", "score": 0.9951, "normalized_name": "glycemic control"}
+{"pmid": "42999457", "text": "body weight", "type": "Diagnostic_procedure", "identifier": null, "start": 321, "end": 332, "source": "biomedical_ner", "score": 0.9996, "normalized_name": "body weight"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 352, "end": 359, "source": "biomedical_ner", "score": 0.7685, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 514, "end": 521, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 563, "end": 570, "source": "biomedical_ner", "score": 0.9912, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "g", "type": "Medication", "identifier": null, "start": 595, "end": 596, "source": "biomedical_ner", "score": 0.9397, "normalized_name": "g"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 685, "end": 692, "source": "biomedical_ner", "score": 0.9391, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 742, "end": 749, "source": "biomedical_ner", "score": 0.7711, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 775, "end": 782, "source": "biomedical_ner", "score": 0.8954, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "glp", "type": "Medication", "identifier": null, "start": 837, "end": 840, "source": "biomedical_ner", "score": 0.9306, "normalized_name": "glp"}
+{"pmid": "42999457", "text": "therapy", "type": "Coreference", "identifier": null, "start": 849, "end": 856, "source": "biomedical_ner", "score": 0.7189, "normalized_name": "therapy"}
+{"pmid": "42999457", "text": "type", "type": "Detailed_description", "identifier": null, "start": 872, "end": 876, "source": "biomedical_ner", "score": 0.8962, "normalized_name": "type"}
+{"pmid": "42999457", "text": "random", "type": "Diagnostic_procedure", "identifier": null, "start": 889, "end": 895, "source": "biomedical_ner", "score": 0.8748, "normalized_name": "random"}
+{"pmid": "42999457", "text": "complex", "type": "Detailed_description", "identifier": null, "start": 969, "end": 976, "source": "biomedical_ner", "score": 0.9927, "normalized_name": "complex"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 977, "end": 984, "source": "biomedical_ner", "score": 0.9992, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "pr", "type": "Medication", "identifier": null, "start": 1068, "end": 1070, "source": "biomedical_ner", "score": 0.5653, "normalized_name": "pr"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 1077, "end": 1084, "source": "biomedical_ner", "score": 0.9407, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "complete", "type": "Detailed_description", "identifier": null, "start": 1121, "end": 1129, "source": "biomedical_ner", "score": 0.8935, "normalized_name": "complete"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 1130, "end": 1137, "source": "biomedical_ner", "score": 0.7681, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "basal", "type": "Detailed_description", "identifier": null, "start": 1261, "end": 1266, "source": "biomedical_ner", "score": 0.6895, "normalized_name": "basal"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 1281, "end": 1288, "source": "biomedical_ner", "score": 0.7846, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "g", "type": "Diagnostic_procedure", "identifier": null, "start": 1311, "end": 1312, "source": "biomedical_ner", "score": 0.7491, "normalized_name": "g"}
+{"pmid": "42999457", "text": "##mic control", "type": "Diagnostic_procedure", "identifier": null, "start": 1316, "end": 1327, "source": "biomedical_ner", "score": 0.7938, "normalized_name": "##mic control"}
+{"pmid": "42999457", "text": "continuous glucose monitoring", "type": "Diagnostic_procedure", "identifier": null, "start": 1495, "end": 1524, "source": "biomedical_ner", "score": 0.6761, "normalized_name": "continuous glucose monitoring"}
+{"pmid": "42999457", "text": "structured glucose monitoring", "type": "Diagnostic_procedure", "identifier": null, "start": 1528, "end": 1557, "source": "biomedical_ner", "score": 0.9836, "normalized_name": "structured glucose monitoring"}
+{"pmid": "42999457", "text": "glp", "type": "Medication", "identifier": null, "start": 1598, "end": 1601, "source": "biomedical_ner", "score": 0.739, "normalized_name": "glp"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 1783, "end": 1790, "source": "biomedical_ner", "score": 0.5749, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 1894, "end": 1901, "source": "biomedical_ner", "score": 0.8156, "normalized_name": "insulin"}
+{"pmid": "42999457", "text": "continued", "type": "Detailed_description", "identifier": null, "start": 1964, "end": 1973, "source": "biomedical_ner", "score": 0.9083, "normalized_name": "continued"}
+{"pmid": "42999457", "text": "withdrawn", "type": "Detailed_description", "identifier": null, "start": 1977, "end": 1986, "source": "biomedical_ner", "score": 0.915, "normalized_name": "withdrawn"}
+{"pmid": "42999457", "text": "to", "type": "Detailed_description", "identifier": null, "start": 1997, "end": 1999, "source": "biomedical_ner", "score": 0.949, "normalized_name": "to"}
+{"pmid": "42999457", "text": "insulin", "type": "Medication", "identifier": null, "start": 2107, "end": 2114, "source": "biomedical_ner", "score": 0.6982, "normalized_name": "insulin"}
