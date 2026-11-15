@@ -1,11 +1,10 @@
-.venv/
 .env
+.env.*
+!.env.example
+.venv/
 __pycache__/
 *.pyc
-
-data/raw/
-data/processed/
+.DS_Store
 data/qdrant/
-
-.pytest_cache/
-.streamlit/secrets.toml
+.agents/
+.claude/
