@@ -1,0 +1,15 @@
+pmid,entity_text,entity_type,linked_id,linked_name,link_method,correct,review_notes
+42999994,type 2 diabetes,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999994,type 2 diabetes mellitus,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999994,t2dm,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999802,type 2 diabetes,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999643,type 2 diabetes mellitus,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999643,type 2 diabetes mellitus,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999643,t2dm,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999637,type 2 diabetes mellitus,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999637,type 2 diabetes mellitus,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999637,t2dm,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999614,type 2 diabetes mellitus,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+42999564,type 2 diabetes,Disease_disorder,MESH:D003924,"Diabetes Mellitus, Type 2",curated_exact_match,,
+
+

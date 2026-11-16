@@ -1,0 +1,33 @@
+
+[
+  {
+    "pmid": "TEST001",
+    "text": "Metformin is used to treat type 2 diabetes. The TCF7L2 gene is associated with diabetes risk.",
+    "entities": [
+      {
+        "text": "Metformin",
+        "type": "Medication",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "type 2 diabetes",
+        "type": "Disease_disorder",
+        "start": 26,
+        "end": 41
+      },
+      {
+        "text": "TCF7L2",
+        "type": "Gene_or_gene_product",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "diabetes",
+        "type": "Disease_disorder",
+        "start": 78,
+        "end": 86
+      }
+    ]
+  }
+]

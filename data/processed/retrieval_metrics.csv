@@ -1,0 +1,6 @@
+question,precision_at_5,recall_at_5,reciprocal_rank_at_5,retrieved_ids
+How does Type 2 Diabetes affect immune cells?,0.4,1.0,1.0,42999994_0|42999994_1|42999643_4|42999457_2|42999457_1
+What is the relationship between blood glucose control and NK-cell function?,0.4,1.0,1.0,42999994_0|42999643_4|42999457_2|42999994_1|42999643_0
+How does BMI affect Ramadan fasting outcomes in Type 2 Diabetes?,0.4,1.0,1.0,42999643_0|42999643_3|42999643_4|42999643_1|42999643_2
+How can GLP-1-based therapy reduce insulin requirements?,0.4,1.0,1.0,42999457_0|42999457_1|42999457_2|42999643_4|42999643_3
+What factors are associated with NK-cell dysfunction in Type 2 Diabetes?,0.4,1.0,1.0,42999994_0|42999994_1|42999994_2|42999643_4|42999457_2
